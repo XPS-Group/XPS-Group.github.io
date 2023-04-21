@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rem",["Function"],[["RemoveItem",,[["Collection",,,,0,"File:types/classes/Collection.sqf:Collection.RemoveItem","SQFClass:Collection:RemoveItem"],["ICollection",,,,0,"File:types/interfaces/ICollection.sqf:ICollection.RemoveItem","SQFClass:ICollection:RemoveItem"]]]]);

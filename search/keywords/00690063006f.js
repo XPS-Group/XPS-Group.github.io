@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ico",["Interface"],[["ICollection",,[[,,,,0,"File:types/interfaces/ICollection.sqf:ICollection","SQFClass:ICollection"]]]]);

@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({6:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">&lt;Container&gt;</div></div>",57:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">BI Wiki : HashMap</div></div>",65:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">BI Wiki : String</div></div>"});

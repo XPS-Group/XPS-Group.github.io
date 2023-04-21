@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("all",["Property"],[["AllowedTypes",,[["ICollection",,,,0,"File:types/interfaces/ICollection.sqf:ICollection.AllowedTypes","SQFClass:ICollection:AllowedTypes"]]]]);

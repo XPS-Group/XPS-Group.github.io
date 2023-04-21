@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("add",["Function"],[["AddItem",,[["Collection",,,,0,"File:types/classes/Collection.sqf:Collection.AddItem","SQFClass:Collection:AddItem"],["ICollection",,,,0,"File:types/interfaces/ICollection.sqf:ICollection.AddItem","SQFClass:ICollection:AddItem"]]]]);

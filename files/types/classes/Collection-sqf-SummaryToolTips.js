@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:types/classes/Collection.sqf",{43:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">Yes</div></div>"});

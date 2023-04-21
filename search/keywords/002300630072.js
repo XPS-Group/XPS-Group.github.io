@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("#cr",["Function"],[["#create",,[["Collection",,,,0,"File:types/classes/Collection.sqf:Collection._create","SQFClass:Collection:_create"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("has",["Type"],[["HashMap",,[[,,,,0,"File:native_types:HashMap"]]],["HashMapKey",,[[,,,,0,"File:native_types:HashMapKey"]]],["HashMapObject",,[[,,,,0,"File:native_types:HashMapObject"]]]]);
