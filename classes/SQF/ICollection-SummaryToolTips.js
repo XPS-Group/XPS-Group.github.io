@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("SQFClass:ICollection",{36:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">CrashDome</div></div>",38:"<div class=\"NDToolTip TProperty LSQF\"><div class=\"TTSummary\">Array</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("SQFClass:ICollection",{29:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">CrashDome</div></div>",31:"<div class=\"NDToolTip TProperty LSQF\"><div class=\"TTSummary\">Array</div></div>"});
