@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("SQFClass:XPS_Collection",{5:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">HashMapObject which stores items which match &lt;AllowedTypes&gt; array</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("SQFClass:XPS_Collection",{3:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">HashMapObject which stores items which match &lt;AllowedTypes&gt; array</div></div>"});
