@@ -1,1 +1,0 @@
-﻿NDContentPage.OnToolTipsLoaded({51:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">BI Wiki : Boolean</div></div>",63:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">BI Wiki : Object</div></div>"});

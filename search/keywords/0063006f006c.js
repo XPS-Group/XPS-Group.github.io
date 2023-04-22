@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("col",["Class"],[["Collection",,[[,,,,0,"File:types/classes/Collection.sqf:Collection","SQFClass:Collection"]]]]);

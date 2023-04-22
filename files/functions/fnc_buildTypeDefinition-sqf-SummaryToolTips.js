@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:functions/fnc_buildTypeDefinition.sqf",{27:"<div class=\"NDToolTip TFunction LSQF\"><div class=\"TTSummary\">Used to define a global declaration for a Hashmap or HashmapObject</div></div>"});

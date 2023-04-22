@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("classes.js",[[1,"Collection"],[1,"ICollection"]]);
+﻿NDMenu.OnSectionLoaded("classes.js",[[1,"XPS_Collection"],[1,"XPS_ICollection"]]);

@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("add",["Function"],[["AddItem",,[["Collection",,,,0,"File:types/classes/Collection.sqf:Collection.AddItem","SQFClass:Collection:AddItem"],["ICollection",,,,0,"File:types/interfaces/ICollection.sqf:ICollection.AddItem","SQFClass:ICollection:AddItem"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("add",["Function"],[["AddItem",,[["XPS_Collection",,,,0,"File:classes/Collection.sqf:XPS_Collection.AddItem","SQFClass:XPS_Collection:AddItem"],["XPS_ICollection",,,,0,"File:interfaces/ICollection.sqf:XPS_ICollection.AddItem","SQFClass:XPS_ICollection:AddItem"]]]]);
