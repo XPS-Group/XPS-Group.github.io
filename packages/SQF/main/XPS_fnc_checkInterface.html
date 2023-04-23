@@ -10,43 +10,43 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="Topic34"></a><div class="CTopic TPackage LSQF first">
+<a name="Topic7"></a><div class="CTopic TPackage LSQF first">
  <div class="CTitle"><span class="Qualifier">main.</span>&#8203; XPS_fnc_checkInterface</div>
  <div class="CBody"><div class="CHeading">Description</div><p>Used to determine if a <a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,51);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a> or <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,53);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> has the desired keys returning the desired type.</p><p>Keys can be anything that is valid for a <a href="../../../index.html#File:bis_types:HashMapKey" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,52);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapKey</a> although strings as keys are typically used for <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,53);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObjects</a></p></div>
 </div>
 
-<a name="Parameters"></a><a name="Topic35"></a><div class="CTopic TGroup LSQF">
+<a name="Parameters"></a><a name="Topic8"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Parameters</div>
 </div>
 
-<a name="_type"></a><a name="Topic36"></a><div class="CTopic TParameter LSQF">
+<a name="_type"></a><a name="Topic9"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_type</div>
  <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,51);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashMap</a> or <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,53);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>the map/object to check</p></td></tr></table></div>
 </div>
 
-<a name="_interface"></a><a name="Topic37"></a><div class="CTopic TParameter LSQF">
+<a name="_interface"></a><a name="Topic10"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_interface</div>
  <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,44);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>an <a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,44);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >array</a> of <a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,44);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >arrays</a> in the format [[key1,type],[key2,type]...] where type is the <a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,59);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >string</a> of the native type</p></td></tr></table></div>
 </div>
 
-<a name="_allowNils*"></a><a name="Topic38"></a><div class="CTopic TParameter LSQF">
+<a name="_allowNils*"></a><a name="Topic11"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_allowNils*</div>
  <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,45);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p>(optional) default: false - used to allow keys with nil values</p></td></tr></table></div>
 </div>
 
-<a name="Returns"></a><a name="Topic39"></a><div class="CTopic TGroup LSQF">
+<a name="Returns"></a><a name="Topic12"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Returns</div>
 </div>
 
-<a name="&lt;Boolean&gt;"></a><a name="Topic40"></a><div class="CTopic TReturn LSQF">
+<a name="&lt;Boolean&gt;"></a><a name="Topic13"></a><div class="CTopic TReturn LSQF">
  <div class="CTitle">&lt;Boolean&gt;</div>
 </div>
 
-<a name="Examples"></a><a name="Topic41"></a><div class="CTopic TGroup LSQF">
+<a name="Examples"></a><a name="Topic14"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Examples</div>
 </div>
 
-<a name="Check_a_hashmap_if_it_supports_interface"></a><a name="Topic42"></a><div class="CTopic TExample LSQF last">
+<a name="Check_a_hashmap_if_it_supports_interface"></a><a name="Topic15"></a><div class="CTopic TExample LSQF last">
  <div class="CTitle">Check a hashmap if it supports interface</div>
  <div class="CBody"><pre class="CCode">MyHashmap = createhashmapfromArray [[<span class="SHString">&quot;PropertyA&quot;</span>,<span class="SHString">&quot;Hello&quot;</span>],[<span class="SHString">&quot;Method&quot;</span>,{hint <span class="SHString">&quot;Hi&quot;</span>}],[<span class="SHString">&quot;PropertyB&quot;</span>,<span class="SHNumber">10</span>]];<br />MyInterface = [[<span class="SHString">&quot;PropertyA&quot;</span>,<span class="SHString">&quot;STRING&quot;</span>],[<span class="SHString">&quot;Method&quot;</span>,<span class="SHString">&quot;CODE&quot;</span>]];<br /><span class="SHKeyword">private</span> _result = [MyHashmap,MyInterface] call XPS_fnc_checkInterface;<br /><span class="SHComment">// _result is 'true'</span></pre><div class="CHeading">Author</div><p>CrashDome</p></div>
 </div>
