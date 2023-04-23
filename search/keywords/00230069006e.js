@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("#in",["mapprop"],[["#interfaces",,[["XPS_Collection",,,,0,"File:typedefs/Collection.sqf:XPS_Collection._interfaces","SQFClass:XPS_Collection:_interfaces"]]]]);

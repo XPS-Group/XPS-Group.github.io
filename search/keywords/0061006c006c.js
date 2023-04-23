@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("all",["Property"],[["AllowedTypes",,[["XPS_ICollection",,,,0,"File:interfaces/ICollection.sqf:XPS_ICollection.AllowedTypes","SQFClass:XPS_ICollection:AllowedTypes"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("all",["mapprop"],[["AllowedTypes",,[["XPS_Collection",,,,0,"File:typedefs/Collection.sqf:XPS_Collection.AllowedTypes","SQFClass:XPS_Collection:AllowedTypes"],["XPS_ICollection",,,,0,"File:interfaces/ICollection.sqf:XPS_ICollection.AllowedTypes","Database:XPS_ICollection:AllowedTypes"]]]]);

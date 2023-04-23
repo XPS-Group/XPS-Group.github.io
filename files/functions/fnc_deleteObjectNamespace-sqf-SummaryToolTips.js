@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File:functions/fnc_deleteObjectNamespace.sqf",{2:"<div class=\"NDToolTip TFunction LSQF\"><div class=\"TTSummary\">Deletes a Namespace based on CBA_NamespaceDummy</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File:functions/fnc_deleteObjectNamespace.sqf",{14:"<div class=\"NDToolTip Tgfunction LSQF\"><div class=\"TTSummary\">Deletes a Namespace based on CBA_NamespaceDummy</div></div>"});

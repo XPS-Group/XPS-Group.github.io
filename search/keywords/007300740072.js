@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("str",["Type"],[["String",,[[,,,,0,"File:native_types:String"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("str",["Type"],[["String",,[[,,,,0,"File:bis_types:String"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("#st",["mapmethod"],[["#str",,[["XPS_Collection",,,,0,"File:typedefs/Collection.sqf:XPS_Collection._str","SQFClass:XPS_Collection:_str"]]]]);

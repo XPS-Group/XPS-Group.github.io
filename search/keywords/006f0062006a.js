@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("obj",["Type"],[["Object",,[[,,,,0,"File:native_types:Object"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("obj",["Type"],[["Object",,[[,,,,0,"File:bis_types:Object"]]]]);

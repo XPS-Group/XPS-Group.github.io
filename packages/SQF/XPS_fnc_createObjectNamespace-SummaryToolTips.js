@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFPackage:XPS_fnc_createObjectNamespace",{2:"<div class=\"NDToolTip Tgfunction LSQF\"><div class=\"TTSummary\">Create and return a new Namespace based on CBA_NamespaceDummy. Same as CBA_fnc_createObjectNamespace but modified to only produce simpleObjects and not locations</div></div>"});

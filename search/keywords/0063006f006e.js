@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("con",["Type"],[["Config",,[[,,,,0,"File:native_types:Config"]]],["Control",,[[,,,,0,"File:native_types:Control"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("con",["Type"],[["Config",,[[,,,,0,"File:bis_types:Config"]]],["Control",,[[,,,,0,"File:bis_types:Control"]]]]);

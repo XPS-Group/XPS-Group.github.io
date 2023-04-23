@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("nam",["Type"],[["Namespace",,[[,,,,0,"File:native_types:Namespace"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("nam",["Type"],[["Namespace",,[[,,,,0,"File:bis_types:Namespace"]]]]);

@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("has",["Type"],[["HashMap",,[[,,,,0,"File:native_types:HashMap"]]],["HashMapKey",,[[,,,,0,"File:native_types:HashMapKey"]]],["HashMapObject",,[[,,,,0,"File:native_types:HashMapObject"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("has",["Type"],[["HashMap",,[[,,,,0,"File:bis_types:HashMap"]]],["HashMapKey",,[[,,,,0,"File:bis_types:HashMapKey"]]],["HashMapObject",,[[,,,,0,"File:bis_types:HashMapObject"]]]]);

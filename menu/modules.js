@@ -1,0 +1,1 @@
+﻿NDMenu.OnSectionLoaded("modules.js",[[1,"XPS_ifc_ICollection"],[1,"XPS_typ_Collection"],[1,"XPS_typ_TypeCollection"]]);

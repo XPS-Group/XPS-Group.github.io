@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("boo",["Type"],[["Boolean",,[[,,,,0,"File:native_types:Boolean"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("boo",["Type"],[["Boolean",,[[,,,,0,"File:bis_types:Boolean"]]]]);

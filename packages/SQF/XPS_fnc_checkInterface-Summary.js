@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFPackage:XPS_fnc_checkInterface","XPS_fnc_checkInterface");NDSummary.OnSummaryLoaded("SQFPackage:XPS_fnc_checkInterface",[["SQF","SQF"]],[["Global Variables","gfunction"]],[[3,0,0,"XPS_fnc_checkInterface"]]);

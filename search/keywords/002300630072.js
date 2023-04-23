@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("#cr",["Function"],[["#create",,[["XPS_Collection",,,,0,"File:classes/Collection.sqf:XPS_Collection._create","SQFClass:XPS_Collection:_create"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("#cr",["mapmethod","Function"],[["#create",,[["XPS_Collection",,,,0,"File:typedefs/Collection.sqf:XPS_Collection._create","SQFClass:XPS_Collection:_create"],["XPS_TypeCollection",,,,1,"File:typedefs/TypeCollection.sqf:XPS_TypeCollection._create","SQFClass:XPS_TypeCollection:_create"]]]]);

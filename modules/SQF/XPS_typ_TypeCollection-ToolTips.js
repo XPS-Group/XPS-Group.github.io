@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({15:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">HashMapObject which stores only HashmapObjects which match &lt;AllowedTypes&gt; array of #str types in an \'Items\' key</div></div>"});

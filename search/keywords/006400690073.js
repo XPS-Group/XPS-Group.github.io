@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("dis",["Type"],[["Display",,[[,,,,0,"File:native_types:Display"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("dis",["Type"],[["Display",,[[,,,,0,"File:bis_types:Display"]]]]);

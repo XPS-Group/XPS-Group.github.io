@@ -1,0 +1,1 @@
+﻿NDMenu.OnSectionLoaded("packages.js",[[1,"XPS_fnc_buildTypeDefinition"],[1,"XPS_fnc_checkInterface"],[1,"XPS_fnc_createObjectNamespace"],[1,"XPS_fnc_createUniqueID"],[1,"XPS_fnc_deleteObjectNamespace"]]);

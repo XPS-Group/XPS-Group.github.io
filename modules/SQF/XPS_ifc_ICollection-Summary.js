@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFModule:XPS_ifc_ICollection","XPS_ifc_ICollection");NDSummary.OnSummaryLoaded("SQFModule:XPS_ifc_ICollection",[["SQF","SQF"]],[["Global Variables","gvar"]],[[35,0,0,"XPS_ifc_ICollection"]]);

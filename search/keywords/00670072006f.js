@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("gro",["Type"],[["Group",,[[,,,,0,"File:native_types:Group"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("gro",["Type"],[["Group",,[[,,,,0,"File:bis_types:Group"]]]]);
