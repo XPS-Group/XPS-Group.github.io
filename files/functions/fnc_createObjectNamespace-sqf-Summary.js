@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File:functions/fnc_createObjectNamespace.sqf","fnc_createObjectNamespace.sqf");NDSummary.OnSummaryLoaded("File:functions/fnc_createObjectNamespace.sqf",[["SQF","SQF"]],[["Global Variables","gfunction"]],[[2,0,0,"XPS_fnc_createObjectNamespace","XPS_fnc_createObjectNamespace"]]);

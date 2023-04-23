@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("Database:main.XPS_ifc_ICollection",{16:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">CrashDome</div></div>",18:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>",19:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Hashmap</div></div>"});

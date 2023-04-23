@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File:functions/fnc_createUniqueID.sqf","fnc_createUniqueID.sqf");NDSummary.OnSummaryLoaded("File:functions/fnc_createUniqueID.sqf",[["SQF","SQF"]],[["Global Variables","gfunction"]],[[1,0,0,"XPS_fnc_createUniqueID","XPS_fnc_createUniqueID"]]);

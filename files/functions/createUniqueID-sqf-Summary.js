@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:functions/createUniqueID.sqf","createUniqueID.sqf");NDSummary.OnSummaryLoaded("File:functions/createUniqueID.sqf",[["SQF","SQF"]],[["Package","Package"]],[[4,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_fnc_createUniqueID","main.XPS_fnc_createUniqueID"]]);

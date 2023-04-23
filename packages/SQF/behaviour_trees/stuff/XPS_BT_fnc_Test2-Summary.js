@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFPackage:behaviour_trees.stuff.XPS_BT_fnc_Test2","XPS_BT_fnc_Test2");NDSummary.OnSummaryLoaded("SQFPackage:behaviour_trees.stuff.XPS_BT_fnc_Test2",[["SQF","SQF"]],[["Package","Package"]],[[2,0,0,"<span class=\"Qualifier\">behaviour_trees.&#8203; stuff.</span>&#8203; XPS_BT_fnc_Test2"]]);

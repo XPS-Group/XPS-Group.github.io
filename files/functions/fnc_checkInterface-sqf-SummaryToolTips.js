@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("File:functions/fnc_checkInterface.sqf",{3:"<div class=\"NDToolTip Tgfunction LSQF\"><div class=\"TTSummary\">Used to determine if a Hashmap or HashmapObject has the desired keys returning the desired type.</div></div>"});

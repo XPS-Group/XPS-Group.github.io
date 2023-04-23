@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("database.js",[[1,"XPS_ICollection"]]);
+﻿NDMenu.OnSectionLoaded("database.js",[[1,"XPS_ifc_ICollection"]]);

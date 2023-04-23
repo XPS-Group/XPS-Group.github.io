@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:XPS_typ_Collection","XPS_typ_Collection");NDSummary.OnSummaryLoaded("SQFModule:XPS_typ_Collection",[["SQF","SQF"]],[["Global Variables","gvar"]],[[37,0,0,"XPS_typ_Collection"]]);

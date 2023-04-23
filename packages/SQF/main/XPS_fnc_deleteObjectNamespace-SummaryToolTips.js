@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFPackage:main.XPS_fnc_deleteObjectNamespace",{5:"<div class=\"NDToolTip TPackage LSQF\"><div class=\"TTSummary\">Deletes a Namespace based on CBA_NamespaceDummy</div></div>"});

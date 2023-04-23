@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("SQFModule:XPS_typ_TypeCollection",{38:"<div class=\"NDToolTip Tgvar LSQF\"><div class=\"TTSummary\">see XPS_TypeCollection</div></div>"});

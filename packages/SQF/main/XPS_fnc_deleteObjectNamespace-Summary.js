@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFPackage:main.XPS_fnc_deleteObjectNamespace","XPS_fnc_deleteObjectNamespace");NDSummary.OnSummaryLoaded("SQFPackage:main.XPS_fnc_deleteObjectNamespace",[["SQF","SQF"]],[["Package","Package"]],[[5,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_fnc_deleteObjectNamespace"]]);

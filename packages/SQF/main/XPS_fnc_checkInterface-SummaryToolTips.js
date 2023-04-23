@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFPackage:main.XPS_fnc_checkInterface",{34:"<div class=\"NDToolTip TPackage LSQF\"><div class=\"TTSummary\">Used to determine if a Hashmap or HashmapObject has the desired keys returning the desired type.</div></div>"});

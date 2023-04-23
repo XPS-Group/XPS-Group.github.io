@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFClass:main.XPS_typ_HashmapCollection",{24:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">HashMapObject which stores only HashmapObjects which match AllowedTypes array of #str types in an \'Items\' key</div></div>"});

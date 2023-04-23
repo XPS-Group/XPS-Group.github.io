@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File:functions/fnc_buildTypeDefinition.sqf","fnc_buildTypeDefinition.sqf");NDSummary.OnSummaryLoaded("File:functions/fnc_buildTypeDefinition.sqf",[["SQF","SQF"]],[["Global Variables","gfunction"]],[[13,0,0,"XPS_fnc_buildTypeDefinition","XPS_fnc_buildTypeDefinition"]]);

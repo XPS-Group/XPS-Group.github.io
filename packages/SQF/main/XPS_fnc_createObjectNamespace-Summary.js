@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFPackage:main.XPS_fnc_createObjectNamespace","XPS_fnc_createObjectNamespace");NDSummary.OnSummaryLoaded("SQFPackage:main.XPS_fnc_createObjectNamespace",[["SQF","SQF"]],[["Package","Package"]],[[6,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_fnc_createObjectNamespace"]]);

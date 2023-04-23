@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("typ",["gvar"],[["Type",,[[,"Type Definitions",,,0,"File:XEH_PREP.sqf:Type_Definitions","SQFModule:Type_Definitions:Type_Definitions"]]]]);
