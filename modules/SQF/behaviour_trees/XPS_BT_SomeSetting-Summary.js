@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:behaviour_trees.XPS_BT_SomeSetting","XPS_BT_SomeSetting");NDSummary.OnSummaryLoaded("SQFModule:behaviour_trees.XPS_BT_SomeSetting",[["SQF","SQF"]],[["Module","Module"]],[[3,0,0,"<span class=\"Qualifier\">behaviour_trees.</span>&#8203; XPS_BT_SomeSetting"]]);

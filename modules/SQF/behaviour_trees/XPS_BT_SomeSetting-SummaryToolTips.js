@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("SQFModule:behaviour_trees.XPS_BT_SomeSetting",{3:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Hello</div></div>"});
