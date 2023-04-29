@@ -10,9 +10,28 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="Topic6"></a><div class="CTopic TPackage LSQF first">
+<a name="Topic141"></a><div class="CTopic TPackage LSQF first">
  <div class="CTitle"><span class="Qualifier">main.</span>&#8203; XPS_fnc_createObjectNamespace</div>
- <div class="CBody"><div class="CHeading">Description</div><p>Create and return a new Namespace based on CBA_NamespaceDummy. Same as CBA_fnc_createObjectNamespace but modified to only produce simpleObjects and not locations</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">global</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,45);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a> - create a global object (optional, default: false) <a href="../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,45);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">namespace</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Object" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,57);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Object</a> - a simpleObject</p></td></tr></table><div class="CHeading">Examples</div><pre class="CCode">_myNamespace = call XPS_fnc_createObjectNamespace; <span class="SHComment">//local object (namespace local)</span></pre><pre class="CCode">MyNamespace = <span class="SHKeyword">true</span> call XPS_fnc_createObjectNamespace; <span class="SHComment">//global object (namespace local but can publish)</span><br />publicVariable <span class="SHString">&quot;MyNamespace&quot;</span>  <span class="SHComment">// current variables published to all clients</span></pre><div class="CHeading">Author</div><p>CrashDome</p></div>
+ <div id="NDPrototype141" class="NDPrototype"><div class="PSection PPlainSection">_object = call XPS_fnc_createObjectNamespace</div></div>
+ <div class="CBody"><pre class="CText">_object = [true] call XPS_fnc_createObjectNamespace</pre><div class="CHeading">Description</div><p>Create and return a new Namespace based on CBA_NamespaceDummy. Same as CBA_fnc_createObjectNamespace but modified to only produce simpleObjects and not locations</p></div>
+</div>
+
+<a name="Parameters"></a><a name="Topic142"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Parameters</div>
+</div>
+
+<a name="_global"></a><a name="Topic143"></a><div class="CTopic TParameter LSQF">
+ <div class="CTitle">_global</div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,215);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p>create a global object (optional, default: false) <a href="../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,215);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></p></td></tr></table></div>
+</div>
+
+<a name="Returns"></a><a name="Topic144"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Returns</div>
+</div>
+
+<a name="object"></a><a name="Topic145"></a><div class="CTopic TReturn LSQF last">
+ <div class="CTitle">object</div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Object&gt;&quot;&gt;"></a><a name="Topic146"></a><a href="../../../index.html#SQFPackage:main.XPS_fnc_createObjectNamespace:object" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,145);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Object</a></td><td class="CDLDefinition"><p>a simpleObject</p></td></tr></table><div class="CHeading">Examples</div><pre class="CCode">_myNamespace = call XPS_fnc_createObjectNamespace; <span class="SHComment">//local object (namespace local)</span></pre><pre class="CCode">MyNamespace = <span class="SHKeyword">true</span> call XPS_fnc_createObjectNamespace; <span class="SHComment">//global object (namespace local but can publish)</span><br />publicVariable <span class="SHString">&quot;MyNamespace&quot;</span>  <span class="SHComment">// current variables published to all clients</span></pre><div class="CHeading">Authors</div><p>CrashDome</p></div>
 </div>
 
 </body></html>

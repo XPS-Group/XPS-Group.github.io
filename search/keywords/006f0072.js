@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("or",["Return"],[["or",,[[,"main!XPS_fnc_buildTypeDefinition!&lt;Array&gt; or False if error",,"main!xps_fnc_buildtypedefinition!<array>or false if error",0,"File:functions/buildTypeDefinition.sqf:main.XPS_fnc_buildTypeDefinition.<Array>or_False_if_error","SQFPackage:main.XPS_fnc_buildTypeDefinition:<Array>or_False_if_error"]]]]);

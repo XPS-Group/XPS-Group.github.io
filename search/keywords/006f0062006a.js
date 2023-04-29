@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("obj",["Type"],[["Object",,[[,,,,0,"File:bis_types:Object"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("obj",["Return","Type"],[["Object",,[["main.XPS_fnc_createObjectNamespace","object",,,0,"File:functions/createObjectNamespace.sqf:main.XPS_fnc_createObjectNamespace.object","SQFPackage:main.XPS_fnc_createObjectNamespace:object"],[,,,,1,"File:bis_types:Object"]]]]);

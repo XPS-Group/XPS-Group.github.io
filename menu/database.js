@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("database.js",[[1,"XPS_ifc_ICollection"]]);
+﻿NDMenu.OnSectionLoaded("database.js",[[2,"behaviour_trees","Database:behaviour_trees.",[[1,"XPS_BT_ifc_INode"]]],[2,"main","Database:main.",[[1,"XPS_ifc_IBlackboard"],[1,"XPS_ifc_ICollection"]]]]);

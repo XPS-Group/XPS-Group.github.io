@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:functions/logError.sqf",{125:"<div class=\"NDToolTip TPackage LSQF\"><div id=\"NDPrototype125\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">[_message] call XPS_fnc_logError</div></div><div class=\"TTSummary\">Puts string into rpt file</div></div>"});

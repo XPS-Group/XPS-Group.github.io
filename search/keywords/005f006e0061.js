@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_na",["Parameter"],[["_namespace",,[["main.XPS_fnc_deleteObjectNamespace",,,,0,"File:functions/deleteObjectNamespace.sqf:main.XPS_fnc_deleteObjectNamespace._namespace","SQFPackage:main.XPS_fnc_deleteObjectNamespace:_namespace"]]]]);

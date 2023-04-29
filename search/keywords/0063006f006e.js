@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("con",["Type"],[["Config",,[[,,,,0,"File:bis_types:Config"]]],["Control",,[[,,,,0,"File:bis_types:Control"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("con",["HMMethod","Type"],[["Condition",,[["behaviour_trees.base.XPS_BT_typ_Condition",,,,0,"File2:typedefs/base/Condition.sqf:behaviour_trees.base.XPS_BT_typ_Condition.Condition","SQFClass:behaviour_trees.base.XPS_BT_typ_Condition:Condition"]]],["Config",,[[,,,,1,"File:bis_types:Config"]]],["Control",,[[,,,,1,"File:bis_types:Control"]]]]);
