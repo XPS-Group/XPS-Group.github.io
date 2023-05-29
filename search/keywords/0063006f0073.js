@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cos",["HMProtected"],[["costSoFar",,[["main.XPS_typ_AstarSearch",,,,0,"File:typedefs/AstarSearch.sqf:main.XPS_typ_AstarSearch.costSoFar","SQFClass:main.XPS_typ_AstarSearch:costSoFar"]]]]);

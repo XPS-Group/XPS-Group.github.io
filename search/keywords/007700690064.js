@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wid",["HMProperty"],[["Width",,[["pathfinding.XPS_PF_typ_RoadNode",,,,0,"File3:typedefs/RoadNode.sqf:pathfinding.XPS_PF_typ_RoadNode.Width","SQFClass:pathfinding.XPS_PF_typ_RoadNode:Width"]]]]);

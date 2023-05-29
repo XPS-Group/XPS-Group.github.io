@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sto",["HMMethod"],[["Stop",,[["main.XPS_typ_JobScheduler",,,,0,"File:typedefs/JobScheduler.sqf:main.XPS_typ_JobScheduler.Stop","SQFClass:main.XPS_typ_JobScheduler:Stop"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gra",["HMProperty"],[["Graph",,[["main.XPS_ifc_IAstarSearch",,,,0,"File:interfaces/IAstarSearch.sqf:main.XPS_ifc_IAstarSearch.Graph","Database:main.XPS_ifc_IAstarSearch:Graph"],["main.XPS_typ_AstarSearch",,,,0,"File:typedefs/AstarSearch.sqf:main.XPS_typ_AstarSearch.Graph","SQFClass:main.XPS_typ_AstarSearch:Graph"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:interfaces/IJobScheduler.sqf",{342:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",344:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Hashmap or HashmapObject</div></div>",345:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>"});

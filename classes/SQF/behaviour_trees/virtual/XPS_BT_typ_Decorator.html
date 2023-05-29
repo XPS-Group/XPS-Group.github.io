@@ -10,80 +10,86 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="Topic160"></a><div class="CTopic TClass LSQF first">
+<a name="Topic258"></a><div class="CTopic TClass LSQF first">
  <div class="CTitle"><span class="Qualifier">behaviour_trees.&#8203; virtual.</span>&#8203; XPS_BT_typ_Decorator</div>
- <div class="CBody"><p><a href="../../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,282);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><div class="CHeading">Authors</div><p>CrashDome</p><div class="CHeading">Description</div><p>A node for a Behaviour Tree that has one child</p><div class="CHeading">Parent</div><p>none</p><div class="CHeading">Implements</div><p><a href="../../../../index.html#Database:behaviour_trees.XPS_BT_ifc_INode" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_BT_ifc_INode</a></p><div class="CHeading">Flags</div><p>none</p></div>
+ <div class="CBody"><p><a href="../../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,414);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Description</div><p>A node for a Behaviour Tree that has one child</p><div class="CHeading">Parent</div><p>none</p><div class="CHeading">Implements</div><p><a href="../../../../index.html#Database:behaviour_trees.XPS_BT_ifc_INode" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,75);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_BT_ifc_INode</a></p><div class="CHeading">Flags</div><p>none</p></div>
 </div>
 
-<a name="Protected"></a><a name="Topic161"></a><div class="CTopic TGroup LSQF">
+<a name="Protected"></a><a name="Topic259"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Protected</div>
 </div>
 
-<a name="child"></a><a name="Topic162"></a><div class="CTopic THMProtected LSQF">
+<a name="child"></a><a name="Topic260"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">child</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;HashmapObject&gt;&quot;&gt;"></a><a name="Topic163"></a><a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,298);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>child node</p></td></tr></table></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;HashmapObject&gt;&quot;&gt;"></a><a name="Topic261"></a><a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,463);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>child node</p></td></tr></table></div>
 </div>
 
-<a name="preTick"></a><a name="Topic164"></a><div class="CTopic THMProtected LSQF">
+<a name="preTick"></a><a name="Topic262"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">preTick</div>
- <div id="NDPrototype164" class="NDPrototype"><div class="PSection PPlainSection">_self call [<span class="SHString">&quot;preTick&quot;</span>]</div></div>
- <div class="CBody"><div class="CHeading">Description</div><p>The code that executes before a Tick cycle of a Behaviour Tree. Usually propogates down the tree if possible.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="_status"></a><a name="Topic165"></a>_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,304);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - &quot;RUNNING&quot;, &quot;SUCCESS&quot;, &quot;FAILURE&quot;, or nil</p></td></tr></table></div>
+ <div id="NDPrototype262" class="NDPrototype"><div class="PSection PPlainSection">_self call [<span class="SHString">&quot;preTick&quot;</span>]</div></div>
+ <div class="CBody"><div class="CHeading">Description</div><p>The code that executes before a Tick cycle of a Behaviour Tree. Usually propogates down the tree if possible.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="_status"></a><a name="Topic263"></a>_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,469);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - &quot;RUNNING&quot;, &quot;SUCCESS&quot;, &quot;FAILURE&quot;, or nil</p></td></tr></table></div>
 </div>
 
-<a name="processTick"></a><a name="Topic166"></a><div class="CTopic THMProtected LSQF">
+<a name="processTick"></a><a name="Topic264"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">processTick</div>
- <div id="NDPrototype166" class="NDPrototype"><div class="PSection PPlainSection">_status = _self call [<span class="SHString">&quot;processTick&quot;</span>]</div></div>
- <div class="CBody"><div class="CHeading">Description</div><p>The code that executes during a Tick cycle of a Behaviour Tree and then returns a status.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="_status(2)"></a><a name="Topic167"></a>_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,304);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - &quot;RUNNING&quot;, &quot;SUCCESS&quot;, &quot;FAILURE&quot;, or nil</p></td></tr></table></div>
+ <div id="NDPrototype264" class="NDPrototype"><div class="PSection PPlainSection">_status = _self call [<span class="SHString">&quot;processTick&quot;</span>]</div></div>
+ <div class="CBody"><div class="CHeading">Description</div><p>The code that executes during a Tick cycle of a Behaviour Tree and then returns a status.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="_status(2)"></a><a name="Topic265"></a>_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,469);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - &quot;RUNNING&quot;, &quot;SUCCESS&quot;, &quot;FAILURE&quot;, or nil</p></td></tr></table></div>
 </div>
 
-<a name="postTick"></a><a name="Topic168"></a><div class="CTopic THMProtected LSQF">
+<a name="postTick"></a><a name="Topic266"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">postTick</div>
- <div id="NDPrototype168" class="NDPrototype"><div class="PSection PPlainSection">_status = _self call [<span class="SHString">&quot;postTick&quot;</span>,_status]</div></div>
- <div class="CBody"><div class="CHeading">Description</div><p>The code that executes after a Tick cycle of a Behaviour Tree and then sets the <a href="../../../../index.html#SQFClass:behaviour_trees.virtual.XPS_BT_typ_Decorator:Status" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,172);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Status</a> property before going back up the tree.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="_status(3)"></a><a name="Topic169"></a>_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,304);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - &quot;RUNNING&quot;, &quot;SUCCESS&quot;, &quot;FAILURE&quot;, or nil</p></td></tr></table></div>
+ <div id="NDPrototype266" class="NDPrototype"><div class="PSection PPlainSection">_status = _self call [<span class="SHString">&quot;postTick&quot;</span>,_status]</div></div>
+ <div class="CBody"><div class="CHeading">Description</div><p>The code that executes after a Tick cycle of a Behaviour Tree and then sets the <a href="../../../../index.html#SQFClass:behaviour_trees.virtual.XPS_BT_typ_Decorator:Status" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,271);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Status</a> property before going back up the tree.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="_status(3)"></a><a name="Topic267"></a>_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,469);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - &quot;RUNNING&quot;, &quot;SUCCESS&quot;, &quot;FAILURE&quot;, or nil</p></td></tr></table></div>
 </div>
 
-<a name="Properties"></a><a name="Topic170"></a><div class="CTopic TGroup LSQF">
+<a name="Properties"></a><a name="Topic268"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Properties</div>
 </div>
 
-<a name="NodeType"></a><a name="Topic171"></a><div class="CTopic THMProperty LSQF">
+<a name="Blackboard"></a><a name="Topic269"></a><div class="CTopic THMProperty LSQF">
+ <div class="CTitle">Blackboard</div>
+ <div id="NDPrototype269" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Blackboard&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,463);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>A blackboard for use in nodes</p></td></tr></table></div>
+</div>
+
+<a name="NodeType"></a><a name="Topic270"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">NodeType</div>
- <div id="NDPrototype171" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;NodeType&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,304);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>&quot;DECORATOR&quot;</p></td></tr></table></div>
+ <div id="NDPrototype270" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;NodeType&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,469);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>&quot;DECORATOR&quot;</p></td></tr></table></div>
 </div>
 
-<a name="Status"></a><a name="Topic172"></a><div class="CTopic THMProperty LSQF">
+<a name="Status"></a><a name="Topic271"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Status</div>
- <div id="NDPrototype172" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Status&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,304);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>should only return &quot;SUCCESS&quot;, &quot;FAILED&quot;, &quot;RUNNING&quot;, or &lt;nil&gt;</p></td></tr></table></div>
+ <div id="NDPrototype271" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Status&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,469);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>should only return &quot;SUCCESS&quot;, &quot;FAILED&quot;, &quot;RUNNING&quot;, or &lt;nil&gt;</p></td></tr></table></div>
 </div>
 
-<a name="Methods"></a><a name="Topic173"></a><div class="CTopic TGroup LSQF">
+<a name="Methods"></a><a name="Topic272"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Methods</div>
 </div>
 
-<a name="_create"></a><a name="Topic174"></a><div class="CTopic THMMethod LSQF">
+<a name="_create"></a><a name="Topic273"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">#create</div>
- <div id="NDPrototype174" class="NDPrototype"><div class="PSection PPlainSection">_result = createHashmapObject [<span class="SHString">&quot;XPS_BT_typ_Decorator&quot;</span>]</div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">_result</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,298);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> of a Decorator node</p></td></tr></table></div>
+ <div id="NDPrototype273" class="NDPrototype"><div class="PSection PPlainSection">_result = createHashmapObject [<span class="SHString">&quot;XPS_BT_typ_Decorator&quot;</span>]</div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">_result</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,463);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> of a Decorator node</p></td></tr></table></div>
 </div>
 
-<a name="AddChildNode"></a><a name="Topic175"></a><div class="CTopic THMMethod LSQF">
+<a name="AddChildNode"></a><a name="Topic274"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">AddChildNode</div>
- <div id="NDPrototype175" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;AddChildNode&quot;</span>,[childNode]]</div></div>
- <div class="CBody"><div class="CHeading">Description</div><p>Adds a child node to this node. Subsequent calls will replace previous values</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">childNode</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,298);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> that implements the &lt;XPS_ifc_INode&gt; interface</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,290);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p>True if successful otherwise False</p></td></tr></table></div>
+ <div id="NDPrototype274" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;AddChildNode&quot;</span>,[childNode]]</div></div>
+ <div class="CBody"><div class="CHeading">Description</div><p>Adds a child node to this node. Subsequent calls will replace previous values</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">childNode</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,463);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> that implements the &lt;XPS_ifc_INode&gt; interface</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,455);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p>True if successful otherwise False</p></td></tr></table></div>
 </div>
 
-<a name="Init"></a><a name="Topic176"></a><div class="CTopic THMMethod LSQF">
+<a name="Init"></a><a name="Topic275"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">Init</div>
- <div id="NDPrototype176" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;Init&quot;</span>]</div></div>
+ <div id="NDPrototype275" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;Init&quot;</span>]</div></div>
  <div class="CBody"><div class="CHeading">Description</div><p>Initialization code usually called to reset the node.</p><div class="CHeading">Returns</div><p>Nothing</p></div>
 </div>
 
-<a name="Tick"></a><a name="Topic177"></a><div class="CTopic THMMethod LSQF last">
+<a name="Tick"></a><a name="Topic276"></a><div class="CTopic THMMethod LSQF last">
  <div class="CTitle">Tick</div>
- <div id="NDPrototype177" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;Tick&quot;</span>]</div></div>
- <div class="CBody"><div class="CHeading">Description</div><p>The code that begins the entire Tick cycle process.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,304);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - returns <a href="../../../../index.html#SQFClass:behaviour_trees.virtual.XPS_BT_typ_Decorator:Status" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,172);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Status</a> property after execution</p></td></tr></table></div>
+ <div id="NDPrototype276" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;Tick&quot;</span>]</div></div>
+ <div class="CBody"><div class="CHeading">Description</div><p>The code that begins the entire Tick cycle process.</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">_status</td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,469);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - returns <a href="../../../../index.html#SQFClass:behaviour_trees.virtual.XPS_BT_typ_Decorator:Status" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,271);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Status</a> property after execution</p></td></tr></table></div>
 </div>
 
 </body></html>
