@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("num",["Type"],[["Number",,[[,,,,0,"File:bis_types:Number"]]]]);

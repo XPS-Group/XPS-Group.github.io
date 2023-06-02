@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("boo",["Type"],[["Boolean",,[[,,,,0,"File:bis_types:Boolean"]]]]);

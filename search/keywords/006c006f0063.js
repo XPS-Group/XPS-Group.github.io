@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("loc",["Type"],[["Location",,[[,,,,0,"File:bis_types:Location"]]]]);

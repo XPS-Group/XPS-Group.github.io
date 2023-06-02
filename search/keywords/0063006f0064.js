@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cod",["Type"],[["Code",,[[,,,,0,"File:bis_types:Code"]]]]);

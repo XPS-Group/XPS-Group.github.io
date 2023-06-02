@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_fi",["Parameter"],[["_find",,[["main.XPS_fnc_findReplaceKeyInCode",,,,0,"File:functions/findReplaceKeyInCode.sqf:main.XPS_fnc_findReplaceKeyInCode._find","SQFPackage:main.XPS_fnc_findReplaceKeyInCode:_find"]]]]);
