@@ -41,8 +41,7 @@
 
 <a name="main.XPS_fnc_findReplaceKeyInCode._result"></a><a name="Topic347"></a><div class="CTopic TReturn LSQF last">
  <div class="CTitle">_result</div>
- <div id="NDPrototype347" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">private</span> _code = {</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PModifierQualifier first">_self&nbsp;</td><td class="PType">call&nbsp;</td><td class="PSymbols"><span class="SHString">&quot;</span></td><td class="PName last"><span class="SHString">_privateKey&quot;</span></td></tr></table></td><td class="PAfterParameters">}; <span class="SHKeyword">private</span> _find = <span class="SHString">&quot;_privateKey&quot;</span>; <span class="SHKeyword">private</span> _replace = <span class="SHString">&quot;ABCD&quot;</span>; _result = [_find,_replace,_code] call XPS_fnc_preprXPS_fnc_findReplaceKeyInCodeocessTypeDefinition</td></tr></table></div></div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry">&lt;Code&gt;</td><td class="CDLDefinition"><p>the code with replaced &lt;strings&gt;</p></td></tr></table><div class="CHeading">Authors</div><p>Crashdome</p></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry">&lt;Code&gt;</td><td class="CDLDefinition"><p>the code with replaced &lt;strings&gt;</p></td></tr></table><div class="CHeading">Example</div><p>--- private _code = {_self call &quot;_privateKey&quot;}; // note _privateKey is in quotes private _find = &quot;_privateKey&quot;; private _replace = &quot;ABCD&quot;; _result = [_find,_replace,_code] call XPS_fnc_preprXPS_fnc_findReplaceKeyInCodeocessTypeDefinition // _result is: {_self call &quot;ABCD&quot;} ---</p><div class="CHeading">Authors</div><p>Crashdome</p></div>
 </div>
 
 </body></html>

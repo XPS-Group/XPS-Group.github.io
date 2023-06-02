@@ -10,19 +10,19 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="main.XPS_fnc_preprocessTypeDefinition"></a><a name="Topic322"></a><div class="CTopic TPackage LSQF first">
+<a name="main.XPS_fnc_preprocessTypeDefinition"></a><a name="Topic328"></a><div class="CTopic TPackage LSQF first">
  <div class="CTitle"><span class="Qualifier">main.</span>&#8203; XPS_fnc_preprocessTypeDefinition</div>
- <div id="NDPrototype322" class="NDPrototype"><div class="PSection PPlainSection">_typeDefintion = [_type] call XPS_fnc_preprocessTypeDefinition</div></div>
+ <div id="NDPrototype328" class="NDPrototype"><div class="PSection PPlainSection">_typeDefintion = [_type] call XPS_fnc_preprocessTypeDefinition</div></div>
  <div class="CBody"><div class="CHeading">Description</div><p>Takes a type definition array and obfuscates the private Methods/Properties</p></div>
 </div>
 
-<a name="main.XPS_fnc_preprocessTypeDefinition.Parameters"></a><a name="Topic323"></a><div class="CTopic TGroup LSQF">
+<a name="main.XPS_fnc_preprocessTypeDefinition.Parameters"></a><a name="Topic329"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Parameters</div>
 </div>
 
-<a name="main.XPS_fnc_preprocessTypeDefinition._type"></a><a name="Topic324"></a><div class="CTopic TParameter LSQF last">
+<a name="main.XPS_fnc_preprocessTypeDefinition._type"></a><a name="Topic330"></a><div class="CTopic TParameter LSQF last">
  <div class="CTitle">_type</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry">&lt;Array&gt;</td><td class="CDLDefinition"><p>an &lt;array&gt; of &lt;arrays&gt; in the format [[key1,value],[key2,value]...]</p></td></tr></table><div class="CHeading">Return</div><p>Nothing</p><div class="CHeading">Example</div><p>The array : --- [ [&quot;_propertyA&quot;,10], [&quot;_propertyB&quot;,10], [&quot;MethodA&quot;,{ (_self get &quot;_propertyA&quot;) + (_self get &quot;_propertyB&quot;)}] ] ---</p><p>After calling this function would modify the original array to something like: --- [ [&quot;f372a1c1&quot;,10], [&quot;9ade556a&quot;,10], [&quot;MethodA&quot;,{ (_self get &quot;f372a1c1&quot;) + (_self get &quot;9ade556a&quot;)}] ] ---</p><p>Which can then be converted to a &lt;HashmapObject&gt; preventing &quot;_propertyA&quot; or &quot;_propertyB&quot; to be called by an external function or method.</p><div class="CHeading">Authors</div><p>Crashdome</p></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry">&lt;Array&gt;</td><td class="CDLDefinition"><p>an &lt;array&gt; of &lt;arrays&gt; in the format [[key1,value],[key2,value]...]</p></td></tr></table><div class="CHeading">Return</div><p>Nothing</p><div class="CHeading">Example</div><p>The array :</p><p>--- [ [&quot;_propertyA&quot;,10], [&quot;_propertyB&quot;,10], [&quot;MethodA&quot;,{ (_self get &quot;_propertyA&quot;) + (_self get &quot;_propertyB&quot;)}] ] ---</p><p>After calling this function would modify the original array to something like:</p><p>--- [ [&quot;f372a1c1&quot;,10], [&quot;9ade556a&quot;,10], [&quot;MethodA&quot;,{ (_self get &quot;f372a1c1&quot;) + (_self get &quot;9ade556a&quot;)}] ] ---</p><p>Which can then be converted to a &lt;HashmapObject&gt; preventing &quot;_propertyA&quot; or &quot;_propertyB&quot; to be called by an external function or method.</p><div class="CHeading">Authors</div><p>Crashdome</p></div>
 </div>
 
 </body></html>

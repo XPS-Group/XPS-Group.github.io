@@ -1,1 +1,1 @@
-﻿NDContentPage.OnToolTipsLoaded({1:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">&lt;Interface&gt;</div></div>",63:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">&lt;TypeDefinition&gt;</div></div>"});
+﻿NDContentPage.OnToolTipsLoaded({1:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">&lt;Interface&gt;</div></div>",70:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">&lt;TypeDefinition&gt;</div></div>"});
