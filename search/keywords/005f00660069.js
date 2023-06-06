@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("_fi",["Parameter"],[["_find",,[["typeHandlers.XPS_fnc_findReplaceKeyInCode",,,,0,"File:functions/typeHandlers/findReplaceKeyInCode.sqf:typeHandlers.XPS_fnc_findReplaceKeyInCode._find","SQFPackage:typeHandlers.XPS_fnc_findReplaceKeyInCode:_find"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("_fi",["Parameter"],[["_find",,[["main.typeHandlers.XPS_fnc_findReplaceKeyInCode",,,,0,"File:functions/typeHandlers/findReplaceKeyInCode.sqf:main.typeHandlers.XPS_fnc_findReplaceKeyInCode._find","SQFPackage:main.typeHandlers.XPS_fnc_findReplaceKeyInCode:_find"]]]]);

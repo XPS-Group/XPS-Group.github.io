@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("str",["Type"],[["String",,[[,,,,0,"File:bis_types:String"]]]]);

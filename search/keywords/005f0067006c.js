@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("_gl",["Parameter"],[["_global",,[["main.XPS_fnc_createObjectNamespace",,,,0,"File:functions/createObjectNamespace.sqf:main.XPS_fnc_createObjectNamespace._global","SQFPackage:main.XPS_fnc_createObjectNamespace:_global"]]]]);
