@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pri",["Example"],[["Private",,[["typeHandlers.XPS_fnc_preprocessTypeDefinition","Private Properties",,,0,"File:functions/typeHandlers/preprocessTypeDefinition.sqf:typeHandlers.XPS_fnc_preprocessTypeDefinition.Private_Properties","SQFPackage:typeHandlers.XPS_fnc_preprocessTypeDefinition:Private_Properties"]]]]);

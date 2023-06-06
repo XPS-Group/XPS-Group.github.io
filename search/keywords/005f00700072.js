@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("_pr",["Parameter"],[["_preprocess*",,[["main.XPS_fnc_buildTypeDefinition",,,,0,"File:functions/buildTypeDefinition.sqf:main.XPS_fnc_buildTypeDefinition._preprocess*","SQFPackage:main.XPS_fnc_buildTypeDefinition:_preprocess*"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("_pr",["Parameter"],[["_preprocess*",,[["typeHandlers.XPS_fnc_buildTypeDefinition",,,,0,"File:functions/typeHandlers/buildTypeDefinition.sqf:typeHandlers.XPS_fnc_buildTypeDefinition._preprocess*","SQFPackage:typeHandlers.XPS_fnc_buildTypeDefinition:_preprocess*"]]]]);

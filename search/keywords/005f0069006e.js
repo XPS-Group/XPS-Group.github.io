@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("_in",["Parameter"],[["_interfaces",,[["main.XPS_fnc_checkInterface",,,,0,"File:functions/checkInterface.sqf:main.XPS_fnc_checkInterface._interfaces","SQFPackage:main.XPS_fnc_checkInterface:_interfaces"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("_in",["Parameter"],[["_interfaces",,[["typeHandlers.XPS_fnc_checkInterface",,,,0,"File:functions/typeHandlers/checkInterface.sqf:typeHandlers.XPS_fnc_checkInterface._interfaces","SQFPackage:typeHandlers.XPS_fnc_checkInterface:_interfaces"]]]]);

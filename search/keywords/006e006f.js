@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("no",["Example"],[["No",,[["main.XPS_fnc_buildTypeDefinition","No Inheritance",,,0,"File:functions/buildTypeDefinition.sqf:main.XPS_fnc_buildTypeDefinition.No_Inheritance","SQFPackage:main.XPS_fnc_buildTypeDefinition:No_Inheritance"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("no",["Example"],[["No",,[["typeHandlers.XPS_fnc_buildTypeDefinition","No Inheritance",,,0,"File:functions/typeHandlers/buildTypeDefinition.sqf:typeHandlers.XPS_fnc_buildTypeDefinition.No_Inheritance","SQFPackage:typeHandlers.XPS_fnc_buildTypeDefinition:No_Inheritance"]]]]);

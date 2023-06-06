@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("SQFClass:pathfinding.XPS_PF_typ_PathfindingScheduler",{31:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">&lt;TypeDefinition&gt;</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("SQFClass:pathfinding.XPS_PF_typ_PathfindingScheduler",{67:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">&lt;TypeDefinition&gt;</div></div>"});

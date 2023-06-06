@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ta",["Parameter"],[["_tag*",,[["typeHandlers.XPS_fnc_parseTypeDefClass",,,,0,"File:functions/typeHandlers/parseTypeDefClass.sqf:typeHandlers.XPS_fnc_parseTypeDefClass._tag*","SQFPackage:typeHandlers.XPS_fnc_parseTypeDefClass:_tag*"]]]]);
