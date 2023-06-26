@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("obj",["Type","HMProperty"],[["Object",,[[,,,,0,"File:bis_types:Object"],["pathfinding.XPS_PF_typ_RoadNode",,,,1,"File4:typedefs/RoadNode.sqf:pathfinding.XPS_PF_typ_RoadNode.Object","SQFClass:pathfinding.XPS_PF_typ_RoadNode:Object"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("obj",["Type"],[["Object",,[[,,,,0,"File:bis_types:Object"]]]]);
