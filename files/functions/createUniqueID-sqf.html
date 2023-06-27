@@ -10,52 +10,52 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="main.XPS_fnc_createUniqueID"></a><a name="Topic450"></a><div class="CTopic TPackage LSQF first">
+<a name="main.XPS_fnc_createUniqueID"></a><a name="Topic485"></a><div class="CTopic TPackage LSQF first">
  <div class="CTitle"><span class="Qualifier">main.</span>&#8203; XPS_fnc_createUniqueID</div>
- <div id="NDPrototype450" class="NDPrototype"><div class="PSection PPlainSection">_result = call XPS_fnc_creaeteUniqueID</div></div>
- <div class="CBody"><pre class="CText">_result = [_length, _chars] call XPS_fnc_creaeteUniqueID</pre><div class="CHeading">Description</div><p>Create and return a new Unique ID in string format. This is <u>not</u> a UUID based on standards.&nbsp; It is simply taking a random character from a desired string of characters and appending it to a length desired.</p><p>To prevent possible collisions when generating IDs, you can increase length or the chars chosen to decrease probability. In my tests in Arma 3, a length of 8 from the default 16 char string produced about a 0.05% chance of collision - or about 500 for every 1,000,000.</p><p>Here are some additional tests to help you decide what you need:</p><pre class="CText">Length  # of Chars  Probability of collision    In context<br />8       16          0.05%                       About 500 in 1,000,000<br />10      16          0.0004%                     About 4 in 1,000,000<br />12      16          virtually none<br /><br />4       32          ~35%                        About 35,000 in 1,000,000<br />6       32          0.028%                      About 288 in 1,000,000<br />8       32          virtually none<br /><br />4       64          ~30%                        About 30,000 in 1,000,000<br />5       64          0.05%                       About 500 in 1,000,000<br />6       64          virtually none</pre><p>Sometimes you need to keep the ID short. In that case, increase characters and reduce to desired length.</p><p>Sometimes a short ID prepended or appended to something else that might be unique will reduce collision probability also.</p><p>For Example: Tank_4f56a23e&nbsp; might be fine if you only intend to have about 10 to 100 &quot;Tank&quot; names.</p></div>
+ <div id="NDPrototype485" class="NDPrototype"><div class="PSection PPlainSection">_result = call XPS_fnc_creaeteUniqueID</div></div>
+ <div class="CBody"><pre class="CText">_result = [_length, _chars] call XPS_fnc_creaeteUniqueID</pre><div class="CHeading">Description</div><p>Create and return a new Unique ID in string format. This is <u>not</u> a UUID based on standards.&nbsp; It is simply taking a random character from a desired string of characters and appending it to a length desired.</p><p>To prevent possible collisions when generating IDs, you can increase length or the chars chosen to decrease probability. In my tests in Arma 3, a length of 8 from the default 16 char string produced about a 0.05% chance of collision - or about 500 for every 1,000,000.</p><p>Here are some additional tests to help you decide what you need:</p><pre class="CText">Length  # of Chars  Probability of collision    In context<br />8       16          0.05%                       About 500 in 1,000,000<br />10      16          0.0004%                     About 4 in 1,000,000<br />12      16          virtually none<br /><br />4       32          ~35%                        About 35,000 in 1,000,000<br />6       32          0.028%                      About 288 in 1,000,000<br />8       32          virtually none<br /><br />4       64          ~30%                        About 30,000 in 1,000,000<br />5       64          0.05%                       About 500 in 1,000,000<br />6       64          virtually none</pre><p>Sometimes you need to keep the ID short. In that case, increase characters and reduce to desired length.</p><p>Sometimes a short ID prepended or appended to something else that might be unique will reduce collision probability also.</p><p>For Example: Tank_4f56a23e&nbsp; might be fine if you only intend to have about 10 to 100 &quot;Tank&quot; names.</p><div class="CHeading">Authors</div><p>Crashdome</p></div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID.Parameters"></a><a name="Topic451"></a><div class="CTopic TGroup LSQF">
+<a name="main.XPS_fnc_createUniqueID.Parameters"></a><a name="Topic486"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Parameters</div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID._length"></a><a name="Topic452"></a><div class="CTopic TParameter LSQF">
+<a name="main.XPS_fnc_createUniqueID._length"></a><a name="Topic487"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_length</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,603);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a></td><td class="CDLDefinition"><p>desired length of the ID in chars - Default of 12 (total 12 chars)</p></td></tr></table></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,625);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a></td><td class="CDLDefinition"><p>desired length of the ID in chars - Default of 12 (total 12 chars)</p></td></tr></table></div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID._chars"></a><a name="Topic453"></a><div class="CTopic TParameter LSQF">
+<a name="main.XPS_fnc_createUniqueID._chars"></a><a name="Topic488"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_chars</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,606);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>string of the possible chars to form the ID - Default [&quot;01234567890abcdef&quot;]</p></td></tr></table><ul><li><p>Note: chars can include a character more than once to increase odds of that character</p></li></ul></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,628);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>string of the possible chars to form the ID - Default [&quot;01234567890abcdef&quot;]</p></td></tr></table><ul><li><p>Note: chars can include a character more than once to increase odds of that character</p></li></ul></div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID.Returns"></a><a name="Topic454"></a><div class="CTopic TGroup LSQF">
+<a name="main.XPS_fnc_createUniqueID.Returns"></a><a name="Topic489"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Returns</div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID._result"></a><a name="Topic455"></a><div class="CTopic TReturn LSQF">
+<a name="main.XPS_fnc_createUniqueID._result"></a><a name="Topic490"></a><div class="CTopic TReturn LSQF">
  <div class="CTitle">_result</div>
- <div class="CBody"><p><a href="../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,606);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></p></div>
+ <div class="CBody"><p><a href="../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,628);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></p></div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID.Examples"></a><a name="Topic456"></a><div class="CTopic TGroup LSQF">
+<a name="main.XPS_fnc_createUniqueID.Examples"></a><a name="Topic491"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Examples</div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID.Default"></a><a name="Topic457"></a><div class="CTopic TExample LSQF">
+<a name="main.XPS_fnc_createUniqueID.Default"></a><a name="Topic492"></a><div class="CTopic TExample LSQF">
  <div class="CTitle">Default</div>
  <div class="CBody"><pre class="CCode">_myUniqueID = call XPS_fnc_createUniqueID; <span class="SHComment">// might return something like &quot;0a74fbc8d5e1&quot;</span></pre></div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID.Using_both_Optionals"></a><a name="Topic458"></a><div class="CTopic TExample LSQF">
+<a name="main.XPS_fnc_createUniqueID.Using_both_Optionals"></a><a name="Topic493"></a><div class="CTopic TExample LSQF">
  <div class="CTitle">Using both Optionals</div>
  <div class="CBody"><pre class="CCode">_myUniqueID = [<span class="SHNumber">5</span>,<span class="SHString">&quot;01&quot;</span>] call XPS_fnc_createUniqueID; <span class="SHComment">// might return something like &quot;01001&quot;</span></pre></div>
 </div>
 
-<a name="main.XPS_fnc_createUniqueID.Using_both_Optionals_2"></a><a name="Topic459"></a><div class="CTopic TExample LSQF last">
+<a name="main.XPS_fnc_createUniqueID.Using_both_Optionals_2"></a><a name="Topic494"></a><div class="CTopic TExample LSQF last">
  <div class="CTitle">Using both Optionals 2</div>
- <div class="CBody"><pre class="CCode">_myUniqueID = [<span class="SHNumber">10</span>,<span class="SHString">&quot;abcdefghijklmnopqrstuvwxyz&quot;</span>] call XPS_fnc_createUniqueID; <span class="SHComment">// might return something like &quot;iosmfhxrslio&quot;</span></pre><div class="CHeading">Authors</div><p>Crashdome</p></div>
+ <div class="CBody"><pre class="CCode">_myUniqueID = [<span class="SHNumber">10</span>,<span class="SHString">&quot;abcdefghijklmnopqrstuvwxyz&quot;</span>] call XPS_fnc_createUniqueID; <span class="SHComment">// might return something like &quot;iosmfhxrslio&quot;</span></pre></div>
 </div>
 
 </body></html>
