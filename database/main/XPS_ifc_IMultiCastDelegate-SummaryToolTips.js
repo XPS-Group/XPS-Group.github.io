@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("Database:main.XPS_ifc_IMultiCastDelegate",{450:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>"});
