@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("cos",["HMProtected"],[["costSoFar",,[["main.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:main.XPS_typ_AstarSearch.costSoFar","SQFClass:main.XPS_typ_AstarSearch:costSoFar"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("cos",["HMProtected"],[["costSoFar",,[["core.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:core.XPS_typ_AstarSearch.costSoFar","SQFClass:core.XPS_typ_AstarSearch:costSoFar"]]]]);

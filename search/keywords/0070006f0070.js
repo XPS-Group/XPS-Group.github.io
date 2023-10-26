@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("pop",["HMProtected"],[["popQueue",,[["main.XPS_typ_JobScheduler",,,,0,"File2:typedefs/JobScheduler.sqf:main.XPS_typ_JobScheduler.popQueue","SQFClass:main.XPS_typ_JobScheduler:popQueue"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("pop",["HMProtected"],[["popQueue",,[["core.XPS_typ_JobScheduler",,,,0,"File2:typedefs/JobScheduler.sqf:core.XPS_typ_JobScheduler.popQueue","SQFClass:core.XPS_typ_JobScheduler:popQueue"]]]]);

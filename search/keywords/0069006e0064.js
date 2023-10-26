@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("ind",["HMProperty"],[["Index",,[["main.XPS_ifc_IAstarNode",,,,0,"File2:interfaces/IAstarNode.sqf:main.XPS_ifc_IAstarNode.Index","Database:main.XPS_ifc_IAstarNode:Index"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ind",["HMProperty"],[["Index",,[["core.XPS_ifc_IAstarNode",,,,0,"File2:interfaces/IAstarNode.sqf:core.XPS_ifc_IAstarNode.Index","Database:core.XPS_ifc_IAstarNode:Index"]]]]);

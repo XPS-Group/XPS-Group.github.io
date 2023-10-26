@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("_ar",["Parameter"],[["_args*",,[["main.XPS_fnc_logError",,,,0,"File:functions/logError.sqf:main.XPS_fnc_logError._args*","SQFPackage:main.XPS_fnc_logError:_args*"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("_ar",["Parameter"],[["_args*",,[["core.XPS_fnc_logError",,,,0,"File:functions/logError.sqf:core.XPS_fnc_logError._args*","SQFPackage:core.XPS_fnc_logError:_args*"]]]]);

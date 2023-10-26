@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("end",["HMProperty"],[["EndKey",,[["main.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:main.XPS_typ_AstarSearch.EndKey","SQFClass:main.XPS_typ_AstarSearch:EndKey"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("end",["HMProperty"],[["EndKey",,[["core.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:core.XPS_typ_AstarSearch.EndKey","SQFClass:core.XPS_typ_AstarSearch:EndKey"]]]]);

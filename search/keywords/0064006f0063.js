@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("doc",["HMProperty"],[["Doctrine",,[["main.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:main.XPS_typ_AstarSearch.Doctrine","SQFClass:main.XPS_typ_AstarSearch:Doctrine"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("doc",["HMProperty"],[["Doctrine",,[["core.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:core.XPS_typ_AstarSearch.Doctrine","SQFClass:core.XPS_typ_AstarSearch:Doctrine"]]]]);

@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("las",["HMProtected"],[["lastNode",,[["main.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:main.XPS_typ_AstarSearch.lastNode","SQFClass:main.XPS_typ_AstarSearch:lastNode"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("las",["HMProtected"],[["lastNode",,[["core.XPS_typ_AstarSearch",,,,0,"File2:typedefs/AstarSearch.sqf:core.XPS_typ_AstarSearch.lastNode","SQFClass:core.XPS_typ_AstarSearch:lastNode"]]]]);
