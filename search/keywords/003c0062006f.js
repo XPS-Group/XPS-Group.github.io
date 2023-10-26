@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("<bo",["Return"],[["&lt;Boolean&gt;","<boolean>",[["core.xps_main",,,"<boolean>",0,"File:preInit.sqf:core.xps_main.<Boolean>","SQFModule:core.xps_main:<Boolean>"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("<bo",["Return"],[["&lt;Boolean&gt;","<boolean>",[["main.xps_main",,,"<boolean>",0,"File:preInit.sqf:main.xps_main.<Boolean>","SQFModule:main.xps_main:<Boolean>"]]]]);

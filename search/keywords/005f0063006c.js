@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("_cl",["Parameter"],[["_class",,[["core.typeHandlers.XPS_fnc_parseTypeDefClass",,,,0,"File:functions/typeHandlers/parseTypeDefClass.sqf:core.typeHandlers.XPS_fnc_parseTypeDefClass._class","SQFPackage:core.typeHandlers.XPS_fnc_parseTypeDefClass:_class"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("_cl",["Parameter"],[["_class",,[["main.typeHandlers.XPS_fnc_parseTypeDefClass",,,,0,"File:functions/typeHandlers/parseTypeDefClass.sqf:main.typeHandlers.XPS_fnc_parseTypeDefClass._class","SQFPackage:main.typeHandlers.XPS_fnc_parseTypeDefClass:_class"]]]]);

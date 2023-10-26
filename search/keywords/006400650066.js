@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("def",["Example"],[["Default",,[["core.XPS_fnc_createUniqueID",,,,0,"File:functions/createUniqueID.sqf:core.XPS_fnc_createUniqueID.Default","SQFPackage:core.XPS_fnc_createUniqueID:Default"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("def",["Example"],[["Default",,[["main.XPS_fnc_createUniqueID",,,,0,"File:functions/createUniqueID.sqf:main.XPS_fnc_createUniqueID.Default","SQFPackage:main.XPS_fnc_createUniqueID:Default"]]]]);

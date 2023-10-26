@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("_ta",["Parameter"],[["_tag*",,[["core.typeHandlers.XPS_fnc_parseTypeDefClass",,,,0,"File:functions/typeHandlers/parseTypeDefClass.sqf:core.typeHandlers.XPS_fnc_parseTypeDefClass._tag*","SQFPackage:core.typeHandlers.XPS_fnc_parseTypeDefClass:_tag*"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("_ta",["Parameter"],[["_tag*",,[["main.typeHandlers.XPS_fnc_parseTypeDefClass",,,,0,"File:functions/typeHandlers/parseTypeDefClass.sqf:main.typeHandlers.XPS_fnc_parseTypeDefClass._tag*","SQFPackage:main.typeHandlers.XPS_fnc_parseTypeDefClass:_tag*"]]]]);
