@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("File:interfaces/IAstarGraph.sqf",{518:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",524:"<div class=\"NDToolTip THMMethod LSQF\"><div class=\"TTSummary\">Optional Method in case the graph needs to initialize some parameters each search of the graph</div></div>"});

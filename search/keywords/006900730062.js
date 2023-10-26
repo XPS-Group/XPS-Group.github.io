@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("isb",["HMProperty"],[["IsBridge",,[["pathfinding.XPS_PF_typ_RoadNode",,,,0,"File4:interfaces/IRoadNode.sqf:pathfinding.XPS_PF_typ_RoadNode.IsBridge","Database:pathfinding.XPS_PF_typ_RoadNode:IsBridge"]]]]);

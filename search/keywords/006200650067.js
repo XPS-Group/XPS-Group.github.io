@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("beg",["HMProperty"],[["BeginPos",,[["pathfinding.XPS_PF_typ_RoadNode",,,,0,"File4:interfaces/IRoadNode.sqf:pathfinding.XPS_PF_typ_RoadNode.BeginPos","Database:pathfinding.XPS_PF_typ_RoadNode:BeginPos"]]]]);
