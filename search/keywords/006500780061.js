@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("exa",["Example"],[["Example",,[["behaviour_tree.XPS_BT_fnc_buildTree","Simple Example",,,0,"File3:functions/buildTree.sqf:behaviour_tree.XPS_BT_fnc_buildTree.Simple_Example","SQFPackage:behaviour_tree.XPS_BT_fnc_buildTree:Simple_Example"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("exa",["Example"],[["Example",,[["behaviour_trees.XPS_BT_fnc_buildTree","Simple Example",,,0,"File3:functions/buildTree.sqf:behaviour_trees.XPS_BT_fnc_buildTree.Simple_Example","SQFPackage:behaviour_trees.XPS_BT_fnc_buildTree:Simple_Example"]]]]);

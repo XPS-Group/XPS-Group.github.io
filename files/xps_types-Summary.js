@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File:xps_types","xps_types");NDSummary.OnSummaryLoaded("File:xps_types",[["SQF","SQF"]],[["Groups","Group"],["Types","Type"]],[[418,0,0,"Types","Types"],[419,0,1,"TypeDefinition","TypeDefinition"],[420,0,1,"Interface","Interface"]]);
+﻿NDFramePage.OnPageTitleLoaded("File:xps_types","xps_types");NDSummary.OnSummaryLoaded("File:xps_types",[["SQF","SQF"]],[["Groups","Group"],["Types","Type"]],[[424,0,0,"Types","Types"],[425,0,1,"TypeDefinition","TypeDefinition"],[426,0,1,"Interface","Interface"]]);

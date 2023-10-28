@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File2:interfaces/IDelegate.sqf",{226:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File2:interfaces/IDelegate.sqf",{243:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>"});

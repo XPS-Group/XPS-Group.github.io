@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_no",["Parameter"],[["_noStack*",,[["main.typeHandlers.XPS_fnc_buildTypeDefinition",,,,0,"File:functions/typeHandlers/buildTypeDefinition.sqf:main.typeHandlers.XPS_fnc_buildTypeDefinition._noStack*","SQFPackage:main.typeHandlers.XPS_fnc_buildTypeDefinition:_noStack*"]]]]);
