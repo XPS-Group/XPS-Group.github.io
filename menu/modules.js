@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("modules.js",[[1,"xps_main"]]);
+﻿NDMenu.OnSectionLoaded("modules.js",[[2,"core","SQFModule:core.",[[1,"XPS_ExceptionHandler"]]],[2,"main","SQFModule:main.",[[1,"xps_main"]]],[2,"unit_testing","SQFModule:unit_testing.",[[1,"XPS_UT_Assert"],[1,"XPS_UT_Engine"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFClass:core.XPS_typ_Exception",{568:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});

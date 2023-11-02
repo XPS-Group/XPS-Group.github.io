@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tar",["HMProperty"],[["Target",,[["core.XPS_ifc_IException",,,,0,"File2:interfaces/IException.sqf:core.XPS_ifc_IException.Target","Database:core.XPS_ifc_IException:Target"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File5:interfaces/IRoadGraphDoctrine.sqf",{71:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",73:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>",74:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>"});

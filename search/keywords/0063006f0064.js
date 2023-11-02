@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("cod",["Type"],[["Code",,[[,,,,0,"File:bis_types:Code"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("cod",["Type","Example"],[["Code",,[[,,,,0,"File:bis_types:Code"],["main.typeHandlers.XPS_fnc_createStaticTypeFromFile","File and calling code example",,,1,"File:functions/typeHandlers/createStaticTypeFromFile.sqf:main.typeHandlers.XPS_fnc_createStaticTypeFromFile.File_and_calling_code_example","SQFPackage:main.typeHandlers.XPS_fnc_createStaticTypeFromFile:File_and_calling_code_example"]]]]);

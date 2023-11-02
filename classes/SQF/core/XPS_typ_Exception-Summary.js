@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFClass:core.XPS_typ_Exception","XPS_typ_Exception");NDSummary.OnSummaryLoaded("SQFClass:core.XPS_typ_Exception",[["SQF","SQF"]],[["Class","Class"]],[[568,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_typ_Exception"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dat",["HMProperty"],[["Data",,[["core.XPS_ifc_IException",,,,0,"File2:interfaces/IException.sqf:core.XPS_ifc_IException.Data","Database:core.XPS_ifc_IException:Data"]]]]);

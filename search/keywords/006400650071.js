@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("deq",["HMMethod"],[["Dequeue",,[["core.XPS_ifc_IQueue",,,,0,"File2:interfaces/IQueue.sqf:core.XPS_ifc_IQueue.Dequeue","Database:core.XPS_ifc_IQueue:Dequeue"]]]]);

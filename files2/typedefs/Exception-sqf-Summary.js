@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File2:typedefs/Exception.sqf","Exception.sqf");NDSummary.OnSummaryLoaded("File2:typedefs/Exception.sqf",[["SQF","SQF"]],[["Class","Class"]],[[568,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_typ_Exception","core.XPS_typ_Exception"]]);

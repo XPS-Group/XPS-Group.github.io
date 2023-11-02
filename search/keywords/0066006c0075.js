@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("flu",["HMMethod"],[["Flush",,[["core.XPS_typ_MissionCodeStack",,,,0,"File2:typedefs/MissionCodeStack.sqf:core.XPS_typ_MissionCodeStack.Flush","SQFClass:core.XPS_typ_MissionCodeStack:Flush"]]]]);

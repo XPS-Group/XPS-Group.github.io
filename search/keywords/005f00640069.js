@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_di",["Parameter"],[["_distanceThreshold*",,[["pathfinding.XPS_fnc_checkCoastTravel",,,,0,"File5:functions/checkCoastTravel.sqf:pathfinding.XPS_fnc_checkCoastTravel._distanceThreshold*","SQFPackage:pathfinding.XPS_fnc_checkCoastTravel:_distanceThreshold*"]]]]);

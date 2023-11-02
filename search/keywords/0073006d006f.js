@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("smo",["HMMethod"],[["SmoothPath",,[["pathfinding.XPS_PF_typ_RoadGraph",,,,0,"File5:typedefs/RoadGraph.sqf:pathfinding.XPS_PF_typ_RoadGraph.SmoothPath","SQFClass:pathfinding.XPS_PF_typ_RoadGraph:SmoothPath"]]]]);

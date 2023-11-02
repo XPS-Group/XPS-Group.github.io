@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sou",["HMProperty"],[["Source",,[["core.XPS_ifc_IException",,,,0,"File2:interfaces/IException.sqf:core.XPS_ifc_IException.Source","Database:core.XPS_ifc_IException:Source"]]]]);

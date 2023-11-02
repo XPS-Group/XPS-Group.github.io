@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sub",["Example"],[["Subsequent",,[["main.typeHandlers.XPS_fnc_createSingleton","Subsequent calling",,,0,"File:functions/typeHandlers/createSingleton.sqf:main.typeHandlers.XPS_fnc_createSingleton.Subsequent_calling","SQFPackage:main.typeHandlers.XPS_fnc_createSingleton:Subsequent_calling"]]]]);

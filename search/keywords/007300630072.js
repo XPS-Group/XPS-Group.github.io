@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("scr",["Type"],[["Script",,[[,,,,0,"File:bis_types:Script"]]]]);

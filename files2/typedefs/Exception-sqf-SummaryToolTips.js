@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File2:typedefs/Exception.sqf",{568:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});
