@@ -1,1 +1,1 @@
-﻿NDContentPage.OnToolTipsLoaded({15:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">&lt;TypeDefintion&gt;</div></div>",740:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">Read-Only HashmapObject</div></div>"});
+﻿NDContentPage.OnToolTipsLoaded({51:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">&lt;TypeDefintion&gt;</div></div>",541:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",749:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">Read-Only HashmapObject</div></div>"});

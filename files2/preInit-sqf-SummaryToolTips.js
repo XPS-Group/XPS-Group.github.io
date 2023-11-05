@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("File2:preInit.sqf",{666:"<div class=\"NDToolTip TModule LSQF\"><div id=\"NDPrototype666\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">XPS_ExceptionHandler <span class=\"SHKeyword\">get</span> <span class=\"SHString\">&quot;#type&quot;</span></div></div><div class=\"TTSummary\">Singleton</div></div>"});
