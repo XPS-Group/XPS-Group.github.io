@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:main.XPS_UT","XPS_UT");NDSummary.OnSummaryLoaded("SQFModule:main.XPS_UT",[["SQF","SQF"]],[["Groups","Group"],["Module","Module"],["Returns","Return"]],[[48,0,1,"<span class=\"Qualifier\">main.</span>&#8203; XPS_UT"],[49,0,0,"Returns","Returns"],[50,0,2,"&lt;Boolean&gt;","<Boolean>"]]);
