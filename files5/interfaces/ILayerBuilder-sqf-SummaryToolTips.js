@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File5:interfaces/ILayerBuilder.sqf",{126:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",128:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">String</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File5:interfaces/ILayerBuilder.sqf",{146:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",148:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">String</div></div>"});

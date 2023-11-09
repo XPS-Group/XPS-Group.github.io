@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("Database:core.XPS_ifc_IAstarNode",{573:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",575:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">&lt;Anything&gt;</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("Database:core.XPS_ifc_IAstarNode",{558:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",560:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">&lt;Anything&gt;</div></div>"});
