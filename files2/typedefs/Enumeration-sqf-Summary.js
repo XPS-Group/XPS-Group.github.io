@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File2:typedefs/Enumeration.sqf","Enumeration.sqf");NDSummary.OnSummaryLoaded("File2:typedefs/Enumeration.sqf",[["SQF","SQF"]],[["Class","Class"]],[[642,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_typ_Enum","core.XPS_typ_Enum"]]);
+﻿NDFramePage.OnPageTitleLoaded("File2:typedefs/Enumeration.sqf","Enumeration.sqf");NDSummary.OnSummaryLoaded("File2:typedefs/Enumeration.sqf",[["SQF","SQF"]],[["Class","Class"]],[[638,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_typ_Enum","core.XPS_typ_Enum"]]);
