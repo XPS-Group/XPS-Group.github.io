@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File2:preInit.sqf",{688:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Singleton</div></div>",689:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Static</div></div>"});

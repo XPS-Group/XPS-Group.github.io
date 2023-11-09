@@ -10,38 +10,38 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="Topic677"></a><div class="CTopic TPackage LSQF first">
+<a name="Topic707"></a><div class="CTopic TPackage LSQF first">
  <div class="CTitle"><span class="Qualifier">main.&#8203; typeHandlers.</span>&#8203; XPS_fnc_findReplaceKeyInCode</div>
- <div id="NDPrototype677" class="NDPrototype"><div class="PSection PPlainSection">_result = [_find,_replace,_code] call XPS_fnc_findReplaceKeyInCode</div></div>
+ <div id="NDPrototype707" class="NDPrototype"><div class="PSection PPlainSection">_result = [_find,_replace,_code] call XPS_fnc_findReplaceKeyInCode</div></div>
  <div class="CBody"><div class="CHeading">Description</div><p>Replaces a key such as a private key &quot;_key&quot; with a different key. The values must be in quotes in code block.</p><div class="CHeading">Authors</div><p>Crashdome</p></div>
 </div>
 
-<a name="Parameters"></a><a name="Topic678"></a><div class="CTopic TGroup LSQF">
+<a name="Parameters"></a><a name="Topic708"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Parameters</div>
 </div>
 
-<a name="_find"></a><a name="Topic679"></a><div class="CTopic TParameter LSQF">
+<a name="_find"></a><a name="Topic709"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_find</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,771);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>the string to find</p></td></tr></table></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,802);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>the string to find</p></td></tr></table></div>
 </div>
 
-<a name="_replace"></a><a name="Topic680"></a><div class="CTopic TParameter LSQF">
+<a name="_replace"></a><a name="Topic710"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_replace</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,771);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>the string to replace found string</p></td></tr></table></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,802);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>the string to replace found string</p></td></tr></table></div>
 </div>
 
-<a name="_code"></a><a name="Topic681"></a><div class="CTopic TParameter LSQF">
+<a name="_code"></a><a name="Topic711"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_code</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:Code" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,756);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Code</a></td><td class="CDLDefinition"><p>any code block</p></td></tr></table></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:Code" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,787);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Code</a></td><td class="CDLDefinition"><p>any code block</p></td></tr></table></div>
 </div>
 
-<a name="Returns"></a><a name="Topic682"></a><div class="CTopic TGroup LSQF">
+<a name="Returns"></a><a name="Topic712"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Returns</div>
 </div>
 
-<a name="_result"></a><a name="Topic683"></a><div class="CTopic TReturn LSQF last">
+<a name="_result"></a><a name="Topic713"></a><div class="CTopic TReturn LSQF last">
  <div class="CTitle">_result</div>
- <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:Code" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,756);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Code</a></td><td class="CDLDefinition"><p>the code with replaced <a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,771);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >strings</a></p></td></tr></table><div class="CHeading">Example</div><p>--- private _code = {_self call &quot;_privateKey&quot;}; private _find = &quot;_privateKey&quot;; private _replace = &quot;ABCD&quot;; _result = [_find,_replace,_code] call XPS_fnc_findReplaceKeyInCode // _result is: {_self call &quot;ABCD&quot;} ---</p></div>
+ <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:Code" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,787);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Code</a></td><td class="CDLDefinition"><p>the code with replaced <a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,802);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >strings</a></p></td></tr></table><div class="CHeading">Example</div><p>--- private _code = {_self call &quot;_privateKey&quot;}; private _find = &quot;_privateKey&quot;; private _replace = &quot;ABCD&quot;; _result = [_find,_replace,_code] call XPS_fnc_findReplaceKeyInCode // _result is: {_self call &quot;ABCD&quot;} ---</p></div>
 </div>
 
 </body></html>

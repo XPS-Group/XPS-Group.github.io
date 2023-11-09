@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File2:typedefs/Enumeration.sqf",{592:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});
