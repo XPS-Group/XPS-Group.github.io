@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File23:interfaces/IGriid.sqf",{272:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",274:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">HASHMAP</div></div>"});

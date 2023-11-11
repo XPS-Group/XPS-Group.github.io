@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File23:typedefs/HexGrid.sqf","HexGrid.sqf");NDSummary.OnSummaryLoaded("File23:typedefs/HexGrid.sqf",[["SQF","SQF"]],[["Class","Class"]],[[285,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_typ_Queue","core.XPS_typ_Queue"]]);

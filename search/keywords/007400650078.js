@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tex",["Type"],[["Text",,[[,,,,0,"File:bis_types:Text"],[,"Structered Text",,,0,"File:bis_types:Structered_Text"]]]]);

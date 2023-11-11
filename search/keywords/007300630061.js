@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sca",["Type"],[["Scalar",,[[,,,,0,"File:bis_types:Scalar"]]]]);

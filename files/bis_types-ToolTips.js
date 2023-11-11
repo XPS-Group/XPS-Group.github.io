@@ -1,1 +1,1 @@
-﻿NDContentPage.OnToolTipsLoaded({814:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">BI Wiki : HashMap</div></div>"});
+﻿NDContentPage.OnToolTipsLoaded({837:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">BI Wiki : HashMap</div></div>"});
