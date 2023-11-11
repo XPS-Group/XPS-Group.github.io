@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File2:typedefs/Enumeration.sqf","Enumeration.sqf");NDSummary.OnSummaryLoaded("File2:typedefs/Enumeration.sqf",[["SQF","SQF"]],[["Class","Class"]],[[644,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_typ_Enumeration","core.XPS_typ_Enumeration"]]);

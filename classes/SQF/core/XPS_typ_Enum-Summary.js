@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFClass:core.XPS_typ_Enum","XPS_typ_Enum");NDSummary.OnSummaryLoaded("SQFClass:core.XPS_typ_Enum",[["SQF","SQF"]],[["Class","Class"]],[[658,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_typ_Enum"]]);

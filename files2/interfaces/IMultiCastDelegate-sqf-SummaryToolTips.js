@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File2:interfaces/IMultiCastDelegate.sqf",{510:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">&lt;Interface&gt;</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File2:interfaces/IMultiCastDelegate.sqf",{535:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>"});

@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("modules.js",[[2,"main","SQFModule:main.",[[1,"xps_main"]]],[2,"unit_testing","SQFModule:unit_testing.",[[1,"XPS_UT_Assert"],[1,"XPS_UT_Engine"]]]]);
+﻿NDMenu.OnSectionLoaded("modules.js",[[2,"core","SQFModule:core.",[[1,"XPS_Core"],[1,"XPS_Enum"]]],[2,"main","SQFModule:main.",[[1,"XPS_Main"]]],[2,"unit_testing","SQFModule:unit_testing.",[[1,"XPS_UT"],[1,"XPS_UT_Assert"],[1,"XPS_UT_Engine"]]]]);
