@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("can",["HMProtected"],[["canTraverse",,[["pathfinding.XPS_PF_typ_MapGraphSearch",,,,0,"File5:typedefs/MapGraphSearch.sqf:pathfinding.XPS_PF_typ_MapGraphSearch.canTraverse","SQFClass:pathfinding.XPS_PF_typ_MapGraphSearch:canTraverse"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("can",["HMProtected"],[["canTraverse",,[["pathfinding.XPS_PF_typ_MapGraphSearch",,,,0,"File24:typedefs/MapGraphSearch.sqf:pathfinding.XPS_PF_typ_MapGraphSearch.canTraverse","SQFClass:pathfinding.XPS_PF_typ_MapGraphSearch:canTraverse"]]]]);

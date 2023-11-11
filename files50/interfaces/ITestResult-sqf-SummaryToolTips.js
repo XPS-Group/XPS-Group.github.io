@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File50:interfaces/ITestResult.sqf",{5:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",9:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Property : Exception</div></div>"});

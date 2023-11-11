@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("nam",["HMProperty","Type"],[["Names",,[["core.XPS_typ_Enumeration",,,,0,"File2:typedefs/Enumeration.sqf:core.XPS_typ_Enumeration.Names","SQFClass:core.XPS_typ_Enumeration:Names"]]],["Namespace",,[[,,,,1,"File:bis_types:Namespace"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("nam",["HMProperty","Type"],[["Names",,[["core.XPS_typ_Enumeration",,,,0,"File20:typedefs/Enumeration.sqf:core.XPS_typ_Enumeration.Names","SQFClass:core.XPS_typ_Enumeration:Names"]]],["Namespace",,[[,,,,1,"File:bis_types:Namespace"]]]]);

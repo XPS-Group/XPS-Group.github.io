@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File50:unittests/SampleTestClassB.sqf","SampleTestClassB.sqf");NDSummary.OnSummaryLoaded("File50:unittests/SampleTestClassB.sqf",[["SQF","SQF"]],[["Class","Class"]],[[52,0,0,"<span class=\"Qualifier\">unit_testing.</span>&#8203; XPS_UT_typ_SampleTestClassB","unit_testing.XPS_UT_typ_SampleTestClassB"]]);
