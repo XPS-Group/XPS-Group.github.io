@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("rec",["Type"],[["Record",,[[,"Diary Record",,,0,"File:bis_types:Diary_Record"]]]]);

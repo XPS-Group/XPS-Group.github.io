@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sin",["Type"],[["Singleton",,[[,,,,0,"File:xps_types:Singleton"]]]]);

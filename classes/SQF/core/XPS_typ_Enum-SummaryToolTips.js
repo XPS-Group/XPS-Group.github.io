@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("SQFClass:core.XPS_typ_Enum",{651:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});
