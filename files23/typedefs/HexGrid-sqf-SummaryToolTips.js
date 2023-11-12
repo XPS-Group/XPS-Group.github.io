@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File23:typedefs/HexGrid.sqf",{288:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File23:typedefs/HexGrid.sqf",{296:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});
