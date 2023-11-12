@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File50:unittests/SampleTestClassB.sqf",{40:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File50:unittests/SampleTestClassB.sqf",{47:"<div class=\"NDToolTip TClass LSQF\"><div class=\"TTSummary\">TypeDefinition</div></div>"});
