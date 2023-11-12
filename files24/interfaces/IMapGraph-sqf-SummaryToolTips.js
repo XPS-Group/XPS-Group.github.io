@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File24:interfaces/IMapGraph.sqf",{114:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",116:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Hashmap</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File24:interfaces/IMapGraph.sqf",{124:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",126:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Hashmap</div></div>"});
