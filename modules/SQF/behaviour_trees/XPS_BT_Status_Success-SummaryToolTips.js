@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFModule:behaviour_trees.XPS_BT_Status_Success",{518:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Enumeration</div></div>"});

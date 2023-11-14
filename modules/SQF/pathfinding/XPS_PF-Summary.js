@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SQFModule:pathfinding.XPS_PF","XPS_PF");NDSummary.OnSummaryLoaded("SQFModule:pathfinding.XPS_PF",[["SQF","SQF"]],[["Groups","Group"],["Module","Module"],["Returns","Return"]],[[249,0,1,"<span class=\"Qualifier\">pathfinding.</span>&#8203; XPS_PF"],[250,0,0,"Returns","Returns"],[251,0,2,"&lt;Boolean&gt;","<Boolean>"]]);

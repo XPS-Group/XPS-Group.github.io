@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("Database:map_grids.XPS_MG_ifc_IGrid",{269:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",271:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">HASHMAP</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("Database:map_grids.XPS_MG_ifc_IGrid",{252:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",254:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">HASHMAP</div></div>"});

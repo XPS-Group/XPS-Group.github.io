@@ -10,17 +10,71 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="core.XPS_BT"></a><a name="Topic490"></a><div class="CTopic TModule LSQF first">
- <div class="CTitle"><span class="Qualifier">core.</span>&#8203; XPS_BT</div>
- <div class="CBody"><div class="CHeading">Description</div><p>This returns true once preInit has been completed</p></div>
+<a name="behaviour_trees.XPS_BT"></a><a name="Topic516"></a><div class="CTopic TModule LSQF first">
+ <div class="CTitle"><span class="Qualifier">behaviour_trees.</span>&#8203; XPS_BT</div>
+ <div class="CBody"><div class="CHeading">Description</div><p>This returns true once preInit has been completed</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,884);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p>Nil prior to preInit function, False once preInit starts, True if preInit has completed</p></td></tr></table></div>
 </div>
 
-<a name="core.XPS_BT.Returns"></a><a name="Topic491"></a><div class="CTopic TGroup LSQF">
- <div class="CTitle">Returns</div>
+<a name="behaviour_trees.XPS_BT_Status"></a><a name="Topic517"></a><div class="CTopic TModule LSQF">
+ <div class="CTitle"><span class="Qualifier">behaviour_trees.</span>&#8203; XPS_BT_Status</div>
+ <div class="CBody"><div class="CHeading">Description</div><p>A Helper class for an <a href="../index.html#File:xps_types:Enumeration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,879);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Enumeration</a> set</p><ul><li><p><a href="../index.html#File22:preInit.sqf:behaviour_trees.XPS_BT_Status_Success" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,518);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_BT_Status_Success</a></p></li><li><p><a href="../index.html#File22:preInit.sqf:behaviour_trees.XPS_BT_Status_Failure" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,522);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_BT_Status_Failure</a></p></li><li><p><a href="../index.html#File22:preInit.sqf:behaviour_trees.XPS_BT_Status_Running" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,526);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_BT_Status_Running</a></p></li></ul><div class="CHeading">Returns</div><p><a href="../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> of type <a href="../index.html#File22:typedefs/Status.sqf:behaviour_trees.XPS_BT_enum_Status" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,393);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_BT_enum_Status</a></p></div>
 </div>
 
-<a name="core.XPS_BT.&lt;Boolean&gt;"></a><a name="Topic492"></a><div class="CTopic TReturn LSQF last">
- <div class="CTitle">&lt;Boolean&gt;</div>
+<a name="behaviour_trees.XPS_BT_Status_Success"></a><a name="Topic518"></a><div class="CTopic TModule LSQF">
+ <div class="CTitle"><span class="Qualifier">behaviour_trees.</span>&#8203; XPS_BT_Status_Success</div>
+ <div class="CBody"><p><a href="../index.html#File:xps_types:Enumeration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,879);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Enumeration</a></p></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Success.Hashmap_Keys"></a><a name="Topic519"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Hashmap Keys</div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Success.Name"></a><a name="Topic520"></a><div class="CTopic TKey LSQF">
+ <div class="CTitle">Name</div>
+ <div class="CBody"><ul><li><p>&quot;Success&quot;</p></li></ul></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Success.Value"></a><a name="Topic521"></a><div class="CTopic TKey LSQF">
+ <div class="CTitle">Value</div>
+ <div class="CBody"><ul><li><p>&quot;SUCCESS&quot;</p></li></ul></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Failure"></a><a name="Topic522"></a><div class="CTopic TModule LSQF">
+ <div class="CTitle"><span class="Qualifier">behaviour_trees.</span>&#8203; XPS_BT_Status_Failure</div>
+ <div class="CBody"><p><a href="../index.html#File:xps_types:Enumeration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,879);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Enumeration</a></p></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Failure.Hashmap_Keys"></a><a name="Topic523"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Hashmap Keys</div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Failure.Name"></a><a name="Topic524"></a><div class="CTopic TKey LSQF">
+ <div class="CTitle">Name</div>
+ <div class="CBody"><ul><li><p>&quot;Failure&quot;</p></li></ul></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Failure.Value"></a><a name="Topic525"></a><div class="CTopic TKey LSQF">
+ <div class="CTitle">Value</div>
+ <div class="CBody"><ul><li><p>&quot;FAILURE&quot;</p></li></ul></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Running"></a><a name="Topic526"></a><div class="CTopic TModule LSQF">
+ <div class="CTitle"><span class="Qualifier">behaviour_trees.</span>&#8203; XPS_BT_Status_Running</div>
+ <div class="CBody"><p><a href="../index.html#File:xps_types:Enumeration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,879);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Enumeration</a></p></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Running.Hashmap_Keys"></a><a name="Topic527"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Hashmap Keys</div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Running.Name"></a><a name="Topic528"></a><div class="CTopic TKey LSQF">
+ <div class="CTitle">Name</div>
+ <div class="CBody"><ul><li><p>&quot;Running&quot;</p></li></ul></div>
+</div>
+
+<a name="behaviour_trees.XPS_BT_Status_Running.Value"></a><a name="Topic529"></a><div class="CTopic TKey LSQF last">
+ <div class="CTitle">Value</div>
+ <div class="CBody"><ul><li><p>&quot;RUNNING&quot;</p></li></ul></div>
 </div>
 
 </body></html>
