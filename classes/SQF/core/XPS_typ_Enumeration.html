@@ -10,47 +10,57 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="Topic710"></a><div class="CTopic TClass LSQF first">
+<a name="Topic739"></a><div class="CTopic TClass LSQF first">
  <div class="CTitle"><span class="Qualifier">core.</span>&#8203; XPS_typ_Enumeration</div>
- <div class="CBody"><p><a href="../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,877);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Description</div><p>Abstract Class. Helper that provides lookup and retrieval of global static enumerations.&nbsp; Derived classes created with <a href="../../../index.html#SQFPackage:core.typeHandlers.XPS_fnc_createEnumeration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,542);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_fnc_createEnumeration</a> will store a type-safe set of enumeration references to global variables which are constants (compileFinal'd).</p><div class="CHeading">Parent</div><p>none</p><div class="CHeading">Implements</div><p>None</p><div class="CHeading">Flags</div><p>unscheduled</p></div>
+ <div class="NDClassPrototype HasParents" id="NDClassPrototype739"><a class="CPEntry Parent TClass" href="../../../index.html#SQFClass:core.XPS_ifc_IEnumeration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,749);" onmouseout="NDContentPage.OnLinkMouseOut(event);" ><div class="CPName"><span class="Qualifier">core.</span>&#8203;XPS_ifc_IEnumeration</div></a><div class="CPEntry TClass Current"><div class="CPName"><span class="Qualifier">core.</span>&#8203;XPS_typ_Enumeration</div></div></div>
+ <div class="CBody"><p><a href="../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1013);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Description</div><p>Abstract Class. Helper that provides lookup and retrieval of global static enumerations.&nbsp; Derived classes created with <a href="../../../index.html#SQFPackage:core.typeHandlers.XPS_fnc_createEnumeration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,621);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_fnc_createEnumeration</a> will store a type-safe set of enumeration references to global variables which are constants (compileFinal'd).&nbsp; Additionally, it will create a static helper class using this definition.</p><p>See &lt;XPS_fnc_createEnumeration&gt; for more info on usage of types inheriting this type</p></div>
 </div>
 
-<a name="Properties"></a><a name="Topic711"></a><div class="CTopic TGroup LSQF">
+<a name="Reserved"></a><a name="Topic740"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Reserved</div>
+</div>
+
+<a name="_str"></a><a name="Topic741"></a><div class="CTopic THMReserved LSQF">
+ <div class="CTitle">#str</div>
+ <div class="CBody"><pre class="CText">&quot;XPS_typ_Enum&quot;</pre></div>
+</div>
+
+<a name="Properties"></a><a name="Topic742"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Properties</div>
 </div>
 
-<a name="Names"></a><a name="Topic712"></a><div class="CTopic THMProperty LSQF">
+<a name="Names"></a><a name="Topic743"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Names</div>
- <div id="NDPrototype712" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Names&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,883);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of all Enumeration Names</p></td></tr></table></div>
+ <div id="NDPrototype743" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Names&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1019);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of all Enumeration Names</p></td></tr></table></div>
 </div>
 
-<a name="ValueType"></a><a name="Topic713"></a><div class="CTopic THMProperty LSQF">
+<a name="ValueType"></a><a name="Topic744"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">ValueType</div>
- <div id="NDPrototype713" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;ValueType&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,901);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>can be &quot;<a href="../../../index.html#File:bis_types:Scalar" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,898);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >SCALAR</a>&quot;, &quot;<a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,901);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >STRING</a>&quot; or &quot;<a href="../../../index.html#File:bis_types:Text" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,904);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TEXT</a>&quot;</p></td></tr></table></div>
+ <div id="NDPrototype744" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;ValueType&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1037);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>can be &quot;<a href="../../../index.html#File:bis_types:Scalar" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1034);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >SCALAR</a>&quot;, &quot;<a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1037);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >STRING</a>&quot; or &quot;<a href="../../../index.html#File:bis_types:Text" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1040);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TEXT</a>&quot;</p></td></tr></table></div>
 </div>
 
-<a name="Values"></a><a name="Topic714"></a><div class="CTopic THMProperty LSQF">
+<a name="Values"></a><a name="Topic745"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Values</div>
- <div id="NDPrototype714" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Values&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,883);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of all Enumeration Values</p></td></tr></table></div>
+ <div id="NDPrototype745" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Values&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1019);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of all Enumeration Values</p></td></tr></table></div>
 </div>
 
-<a name="Methods"></a><a name="Topic715"></a><div class="CTopic TGroup LSQF">
+<a name="Methods"></a><a name="Topic746"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Methods</div>
 </div>
 
-<a name="GetEnum"></a><a name="Topic716"></a><div class="CTopic THMMethod LSQF">
+<a name="GetEnum"></a><a name="Topic747"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">GetEnum</div>
- <div id="NDPrototype716" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;GetEnum&quot;</span>,[_lookup]]</div></div>
- <div class="CBody"><div class="CHeading">Prameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_lookup</td><td class="CDLDefinition"><p>Anything - value to look up to get reference</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>The reference to the Enumeration constant or nil</p></td></tr></table></div>
+ <div id="NDPrototype747" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;GetEnum&quot;</span>,[_lookup]]</div></div>
+ <div class="CBody"><div class="CHeading">Prameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_lookup</td><td class="CDLDefinition"><p>Anything - value to look up to get reference</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>The reference to the Enumeration constant or nil</p></td></tr></table></div>
 </div>
 
-<a name="IsDefined"></a><a name="Topic717"></a><div class="CTopic THMMethod LSQF last">
+<a name="IsDefined"></a><a name="Topic748"></a><div class="CTopic THMMethod LSQF last">
  <div class="CTitle">IsDefined</div>
- <div id="NDPrototype717" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;IsDefined&quot;</span>,[_lookup]]</div></div>
- <div class="CBody"><div class="CHeading">Prameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_lookup</td><td class="CDLDefinition"><p>Anything - value to look up to see if Name or Value exists</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,884);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p>True if _lookup value exists otherwise False</p></td></tr></table></div>
+ <div id="NDPrototype748" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;IsDefined&quot;</span>,[_lookup]]</div></div>
+ <div class="CBody"><div class="CHeading">Prameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_lookup</td><td class="CDLDefinition"><p>Anything - value to look up to see if Name or Value exists</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1020);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p>True if _lookup value exists otherwise False</p></td></tr></table></div>
 </div>
 
 </body></html>

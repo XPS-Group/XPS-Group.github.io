@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File20:typedefs/collections/ICollection.sqf",{687:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype687\"><div class=\"CPEntry TInterface Current\"><div class=\"CPName\"><span class=\"Qualifier\">core.</span>&#8203;XPS_ifc_ICollection</div></div></div><div class=\"TTSummary\">Interface</div></div>"});

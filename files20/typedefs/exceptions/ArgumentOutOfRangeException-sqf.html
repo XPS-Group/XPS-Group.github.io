@@ -10,53 +10,63 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException"></a><a name="Topic642"></a><div class="CTopic TClass LSQF first">
- <div class="CTitle"><span class="Qualifier">core.&#8203; exceptions.</span>&#8203; XPS_typ_ArgummentOutOfRangeException</div>
- <div class="CBody"><p><a href="../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,877);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Description</div><p>An exception for when an argument is nil and not expected to be.</p><div class="CHeading">Parent</div><p><a href="../../../index.html#File20:typedefs/Exception.sqf:core.XPS_typ_Exception" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,727);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception</a></p><div class="CHeading">Implements</div><p><a href="../../../index.html#File20:interfaces/IException.sqf:core.XPS_ifc_IException" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,581);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IException</a></p><div class="CHeading">Flags</div><p>none</p></div>
+<a name="core.XPS_typ_ArgummentOutOfRangeException"></a><a name="Topic798"></a><div class="CTopic TClass LSQF first">
+ <div class="CTitle"><span class="Qualifier">core.</span>&#8203; XPS_typ_ArgummentOutOfRangeException</div>
+ <div class="NDClassPrototype HasParents" id="NDClassPrototype798"><a class="CPEntry Parent TInterface" href="../../../index.html#File20:typedefs/exceptions/IException.sqf:core.XPS_ifc_IException" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,778);" onmouseout="NDContentPage.OnLinkMouseOut(event);" ><div class="CPName"><span class="Qualifier">core.</span>&#8203;XPS_ifc_IException</div></a><a class="CPEntry Parent TClass" href="../../../index.html#File20:typedefs/exceptions/Exception.sqf:core.XPS_typ_Exception" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,822);" onmouseout="NDContentPage.OnLinkMouseOut(event);" ><div class="CPName"><span class="Qualifier">core.</span>&#8203;XPS_typ_Exception</div></a><div class="CPEntry TClass Current"><div class="CPName"><span class="Qualifier">core.</span>&#8203;XPS_typ_ArgummentOutOfRangeException</div></div></div>
+ <div class="CBody"><p><a href="../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1013);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><pre class="CText">createhashmapobject [XPS_typ_ArgummentOutOfRangeException, [_source*, _target*, _message*, _data*]]</pre><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Description</div><p>An exception for when an argument is out of range from what it was expected to be.</p><div class="CHeading">Optionals</div><table class="CDefinitionList"><tr><td class="CDLEntry">_source</td><td class="CDLDefinition"><p>(optional - Default: nil) - Anything</p></td></tr><tr><td class="CDLEntry">_target</td><td class="CDLDefinition"><p>(optional - Default: nil) - Anything</p></td></tr><tr><td class="CDLEntry">_message</td><td class="CDLDefinition"><p>(optional - Default: nil) - <a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1037);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - custom message to override the default</p></td></tr><tr><td class="CDLEntry">_data</td><td class="CDLDefinition"><p>(optional - Default: nil) - <a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1027);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a> - hashmap of data that provides more detail to cause of exception</p></td></tr></table><div class="CHeading">Returns</div><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></div>
 </div>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException.Properties"></a><a name="Topic643"></a><div class="CTopic TGroup LSQF">
+<a name="core.XPS_typ_ArgummentOutOfRangeException.Reserved"></a><a name="Topic799"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Reserved</div>
+</div>
+
+<a name="core.XPS_typ_ArgummentOutOfRangeException._base"></a><a name="Topic800"></a><div class="CTopic THMReserved LSQF">
+ <div class="CTitle">#base</div>
+ <div class="CBody"><p><a href="../../../index.html#File20:typedefs/exceptions/Exception.sqf:core.XPS_typ_Exception" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,822);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception</a></p></div>
+</div>
+
+<a name="core.XPS_typ_ArgummentOutOfRangeException._create"></a><a name="Topic801"></a><div class="CTopic THMReserved LSQF">
+ <div class="CTitle">#create</div>
+ <div class="CBody"><p><a href="../../../index.html#File20:typedefs/exceptions/Exception.sqf:core.XPS_typ_Exception._create" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,824);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. #create</a></p></div>
+</div>
+
+<a name="core.XPS_typ_ArgummentOutOfRangeException._str"></a><a name="Topic802"></a><div class="CTopic THMReserved LSQF">
+ <div class="CTitle">#str</div>
+ <div class="CBody"><pre class="CText">XPS_typ_ArgummentOutOfRangeException:<br />         Source: (source)<br />         Target: (target)<br />         Message: (message)<br />         Data: (data)</pre></div>
+</div>
+
+<a name="core.XPS_typ_ArgummentOutOfRangeException.Properties"></a><a name="Topic803"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Properties</div>
 </div>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException.Data"></a><a name="Topic644"></a><div class="CTopic THMProperty LSQF">
+<a name="core.XPS_typ_ArgummentOutOfRangeException.Data"></a><a name="Topic804"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Data</div>
- <div id="NDPrototype644" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Data&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#File20:interfaces/IException.sqf:core.XPS_ifc_IException" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,581);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IException</a></p><p><a href="../../../index.html#File20:typedefs/Exception.sqf:core.XPS_typ_Exception.Data" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,729);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. Data</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,891);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>provides more detail about the exception</p></td></tr></table></div>
+ <div class="CBody"><p><a href="../../../index.html#File20:typedefs/exceptions/Exception.sqf:core.XPS_typ_Exception.Data" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,827);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. Data</a></p></div>
 </div>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException.Message"></a><a name="Topic645"></a><div class="CTopic THMProperty LSQF">
+<a name="core.XPS_typ_ArgummentOutOfRangeException.Message"></a><a name="Topic805"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Message</div>
- <div id="NDPrototype645" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Message&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#File20:interfaces/IException.sqf:core.XPS_ifc_IException" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,581);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IException</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,901);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>Argument was out of range</p></td></tr></table></div>
+ <div id="NDPrototype805" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Message&quot;</span></div></div>
+ <div class="CBody"><p><a href="../../../index.html#File20:typedefs/exceptions/IException.sqf:core.XPS_ifc_IException" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,778);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IException</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1037);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>Argument was out of range</p></td></tr></table></div>
 </div>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException.Source"></a><a name="Topic646"></a><div class="CTopic THMProperty LSQF">
+<a name="core.XPS_typ_ArgummentOutOfRangeException.Source"></a><a name="Topic806"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Source</div>
- <div id="NDPrototype646" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Source&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#File20:interfaces/IException.sqf:core.XPS_ifc_IException" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,581);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IException</a></p><p><a href="../../../index.html#File20:typedefs/Exception.sqf:core.XPS_typ_Exception.Source" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,731);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. Source</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">Anything</td><td class="CDLDefinition"><p>typcally the source <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> that caused this error</p></td></tr></table></div>
+ <div class="CBody"><p><a href="../../../index.html#File20:typedefs/exceptions/Exception.sqf:core.XPS_typ_Exception.Source" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,829);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. Source</a></p></div>
 </div>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException.Target"></a><a name="Topic647"></a><div class="CTopic THMProperty LSQF">
+<a name="core.XPS_typ_ArgummentOutOfRangeException.Target"></a><a name="Topic807"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Target</div>
- <div id="NDPrototype647" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Target&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#File20:interfaces/IException.sqf:core.XPS_ifc_IException" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,581);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IException</a></p><p><a href="../../../index.html#File20:typedefs/Exception.sqf:core.XPS_typ_Exception.Target" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,732);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. Target</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">Anything</td><td class="CDLDefinition"><p>typcally the Method or Script Name that caused this error</p></td></tr></table></div>
+ <div class="CBody"><p><a href="../../../index.html#File20:typedefs/exceptions/Exception.sqf:core.XPS_typ_Exception.Target" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,830);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. Target</a></p></div>
 </div>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException.Methods"></a><a name="Topic648"></a><div class="CTopic TGroup LSQF">
+<a name="core.XPS_typ_ArgummentOutOfRangeException.Methods"></a><a name="Topic808"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Methods</div>
 </div>
 
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException._create"></a><a name="Topic649"></a><div class="CTopic THMMethod LSQF">
- <div class="CTitle">#create</div>
- <div id="NDPrototype649" class="NDPrototype"><div class="PSection PPlainSection">createhashmapobject [XPS_typ_ArgummentOutOfRangeException, _source*, _target*, _message*, _data*]</div></div>
- <div class="CBody"><div class="CHeading">Optionals</div><table class="CDefinitionList"><tr><td class="CDLEntry">_source</td><td class="CDLDefinition"><p>(optional - Default: nil) - Anything</p></td></tr><tr><td class="CDLEntry">_target</td><td class="CDLDefinition"><p>(optional - Default: nil) - Anything</p></td></tr><tr><td class="CDLEntry">_message</td><td class="CDLDefinition"><p>(optional - Default: nil) - <a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,901);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a> - custom message to override the default</p></td></tr><tr><td class="CDLEntry">_data</td><td class="CDLDefinition"><p>(optional - Default: nil) - <a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,891);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a> - hashmap of data that provides more detail to cause of exception</p></td></tr></table></div>
-</div>
-
-<a name="core.exceptions.XPS_typ_ArgummentOutOfRangeException.GetText"></a><a name="Topic650"></a><div class="CTopic THMMethod LSQF last">
+<a name="core.XPS_typ_ArgummentOutOfRangeException.GetText"></a><a name="Topic809"></a><div class="CTopic THMMethod LSQF last">
  <div class="CTitle">GetText</div>
- <div id="NDPrototype650" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;GetText&quot;</span>]</div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Text" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,904);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Text</a></td><td class="CDLDefinition"><p>A Structured Text formatted as follows:</p></td></tr></table><pre class="CText">XPS_typ_ArgummentOutOfRangeException:<br />         Source: (source)<br />         Target: (target)<br />         Message: (message)<br />         Data: (data)</pre></div>
+ <div class="CBody"><p><a href="../../../index.html#File20:typedefs/exceptions/Exception.sqf:core.XPS_typ_Exception.GetText" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,832);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_typ_Exception. GetText</a></p></div>
 </div>
 
 </body></html>

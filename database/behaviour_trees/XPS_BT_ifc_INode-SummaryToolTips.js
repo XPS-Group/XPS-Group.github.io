@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("Database:behaviour_trees.XPS_BT_ifc_INode",{290:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",292:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">HashmapObject</div></div>"});

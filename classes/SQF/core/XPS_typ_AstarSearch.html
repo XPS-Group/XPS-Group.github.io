@@ -10,141 +10,138 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.indexOf("?Theme=") == 0){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }if (document.documentElement.className == undefined){ document.documentElement.className = t + "Theme"; }else{ document.documentElement.className += " " + t + "Theme"; }}</script>
 
-<a name="Topic758"></a><div class="CTopic TClass LSQF first">
+<a name="Topic853"></a><div class="CTopic TClass LSQF first">
  <div class="CTitle"><span class="Qualifier">core.</span>&#8203; XPS_typ_AstarSearch</div>
- <div class="CBody"><p><a href="../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,877);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Description</div><p>Traverses a <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> which implements the <a href="../../../index.html#Database:core.XPS_ifc_IAstarGraph" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,617);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarGraph</a> interface to find the best path.</p><div class="CHeading">Parent</div><p>none</p><div class="CHeading">Implements</div><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Flags</div><p>none</p></div>
+ <div class="NDClassPrototype HasParents" id="NDClassPrototype853"><a class="CPEntry Parent TInterface" href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" ><div class="CPName"><span class="Qualifier">core.</span>&#8203;XPS_ifc_IAstarSearch</div></a><div class="CPEntry TClass Current"><div class="CPName"><span class="Qualifier">core.</span>&#8203;XPS_typ_AstarSearch</div></div></div>
+ <div class="CBody"><p><a href="../../../index.html#File:xps_types:TypeDefinition" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1013);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >TypeDefinition</a></p><pre class="CCode">_result = createHashmapObject [<span class="SHString">&quot;XPS_typ_AstarSearch&quot;</span>,[_graph,_startKey,_endKey]]</pre><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Description</div><p>Traverses a <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> which implements the <a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarGraph" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,846);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarGraph</a> interface to find the best path.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_graph</td><td class="CDLDefinition"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarGraph" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,846);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarGraph</a> - the graph to perform the search on</p></td></tr><tr><td class="CDLEntry">_startKey</td><td class="CDLDefinition"><p>Anything</p></td></tr><tr><td class="CDLEntry">_endKey</td><td class="CDLDefinition"><p>Anything</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">_result</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr></table></div>
 </div>
 
-<a name="Protected"></a><a name="Topic759"></a><div class="CTopic TGroup LSQF">
+<a name="Reserved"></a><a name="Topic854"></a><div class="CTopic TGroup LSQF">
+ <div class="CTitle">Reserved</div>
+</div>
+
+<a name="_create"></a><a name="Topic855"></a><div class="CTopic THMReserved LSQF">
+ <div class="CTitle">#create</div>
+ <div id="NDPrototype855" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;#create&quot;</span>,[_graph,_startKey,_endKey]]</div></div>
+ <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_graph</td><td class="CDLDefinition"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarGraph" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,846);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarGraph</a> - the graph to perform the search on</p></td></tr><tr><td class="CDLEntry">_startKey</td><td class="CDLDefinition"><p>Anything</p></td></tr><tr><td class="CDLEntry">_endKey</td><td class="CDLDefinition"><p>Anything</p></td></tr></table><div class="CHeading">Returns</div><p>True</p></div>
+</div>
+
+<a name="_str"></a><a name="Topic856"></a><div class="CTopic THMReserved LSQF">
+ <div class="CTitle">#str</div>
+ <div id="NDPrototype856" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHString">&quot;XPS_typ_AstarSearch&quot;</span></div></div>
+</div>
+
+<a name="@interfaces"></a><a name="Topic857"></a><div class="CTopic THMReserved LSQF">
+ <div class="CTitle">@interfaces</div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p></div>
+</div>
+
+<a name="Protected"></a><a name="Topic858"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Protected</div>
 </div>
 
-<a name="cameFrom"></a><a name="Topic760"></a><div class="CTopic THMProtected LSQF">
+<a name="cameFrom"></a><a name="Topic859"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">cameFrom</div>
- <div id="NDPrototype760" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;cameFrom&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;"></a><a name="Topic761"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,891);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>of nodes where key is index and value is previous node in graph</p></td></tr></table></div>
+ <div id="NDPrototype859" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;cameFrom&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;"></a><a name="Topic860"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1027);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>of nodes where key is index and value is previous node in graph</p></td></tr></table></div>
 </div>
 
-<a name="costSoFar"></a><a name="Topic762"></a><div class="CTopic THMProtected LSQF">
+<a name="costSoFar"></a><a name="Topic861"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">costSoFar</div>
- <div id="NDPrototype762" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;costSoFar&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;(2)"></a><a name="Topic763"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,891);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>of nodes where key is index and value is cost to reach node from start</p></td></tr></table></div>
+ <div id="NDPrototype861" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;costSoFar&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;(2)"></a><a name="Topic862"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1027);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>of nodes where key is index and value is cost to reach node from start</p></td></tr></table></div>
 </div>
 
-<a name="currentNode"></a><a name="Topic764"></a><div class="CTopic THMProtected LSQF">
+<a name="currentNode"></a><a name="Topic863"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">currentNode</div>
- <div id="NDPrototype764" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;currentNode&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;(3)"></a><a name="Topic765"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,891);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>returns current node being processed</p></td></tr></table></div>
+ <div id="NDPrototype863" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;currentNode&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;(3)"></a><a name="Topic864"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1027);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>returns current node being processed</p></td></tr></table></div>
 </div>
 
-<a name="frontier"></a><a name="Topic766"></a><div class="CTopic THMProtected LSQF">
+<a name="frontier"></a><a name="Topic865"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">frontier</div>
- <div id="NDPrototype766" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;frontier&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Array&gt;&quot;&gt;"></a><a name="Topic767"></a><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,883);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of nodes from priority lowest to highest (higher is worse)</p></td></tr></table></div>
+ <div id="NDPrototype865" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;frontier&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Array&gt;&quot;&gt;"></a><a name="Topic866"></a><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1019);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of nodes from priority lowest to highest (higher is worse)</p></td></tr></table></div>
 </div>
 
-<a name="lastNode"></a><a name="Topic768"></a><div class="CTopic THMProtected LSQF">
+<a name="lastNode"></a><a name="Topic867"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">lastNode</div>
- <div id="NDPrototype768" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;lastNode&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;(4)"></a><a name="Topic769"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,891);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>returns last node processed in case path unsuccessfully reaches goal node</p></td></tr></table></div>
+ <div id="NDPrototype867" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;lastNode&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Hashmap&gt;&quot;&gt;(4)"></a><a name="Topic868"></a><a href="../../../index.html#File:bis_types:HashMap" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1027);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Hashmap</a></td><td class="CDLDefinition"><p>returns last node processed in case path unsuccessfully reaches goal node</p></td></tr></table></div>
 </div>
 
-<a name="getPath"></a><a name="Topic770"></a><div class="CTopic THMProtected LSQF">
+<a name="getPath"></a><a name="Topic869"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">getPath</div>
- <div id="NDPrototype770" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;getPath&quot;</span>]</div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Array&gt;&quot;&gt;(2)"></a><a name="Topic771"></a><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,883);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of nodes from start to goal</p></td></tr></table></div>
+ <div id="NDPrototype869" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;getPath&quot;</span>]</div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Array&gt;&quot;&gt;(2)"></a><a name="Topic870"></a><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1019);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of nodes from start to goal</p></td></tr></table></div>
 </div>
 
-<a name="frontierAdd"></a><a name="Topic772"></a><div class="CTopic THMProtected LSQF">
+<a name="frontierAdd"></a><a name="Topic871"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">frontierAdd</div>
- <div id="NDPrototype772" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;frontierAdd&quot;</span>,[_priority,_item]]</div></div>
- <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_priority</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,896);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a> - the value which determines index in frontier array. Lowest first.</p></td></tr><tr><td class="CDLEntry">_item</td><td class="CDLDefinition"><p>Anything - The key of the item being placed in priority queue</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Array&gt;&quot;&gt;(3)"></a><a name="Topic773"></a><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,883);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of nodes from start to goal</p></td></tr></table></div>
+ <div id="NDPrototype871" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;frontierAdd&quot;</span>,[_priority,_item]]</div></div>
+ <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_priority</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1032);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a> - the value which determines index in frontier array. Lowest first.</p></td></tr><tr><td class="CDLEntry">_item</td><td class="CDLDefinition"><p>Anything - The key of the item being placed in priority queue</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="&lt;link_type=&quot;naturaldocs&quot;originaltext=&quot;&lt;Array&gt;&quot;&gt;(3)"></a><a name="Topic872"></a><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1019);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of nodes from start to goal</p></td></tr></table></div>
 </div>
 
-<a name="frontierPullLowest"></a><a name="Topic774"></a><div class="CTopic THMProtected LSQF">
+<a name="frontierPullLowest"></a><a name="Topic873"></a><div class="CTopic THMProtected LSQF">
  <div class="CTitle">frontierPullLowest</div>
- <div id="NDPrototype774" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;frontierPullLowest&quot;</span>]</div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="Anything"></a><a name="Topic775"></a>Anything</td><td class="CDLDefinition"><p>key of node that is at front of frontier queue. Item is removed from queue</p></td></tr></table></div>
+ <div id="NDPrototype873" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;frontierPullLowest&quot;</span>]</div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="Anything"></a><a name="Topic874"></a>Anything</td><td class="CDLDefinition"><p>key of node that is at front of frontier queue. Item is removed from queue</p></td></tr></table></div>
 </div>
 
-<a name="Properties"></a><a name="Topic776"></a><div class="CTopic TGroup LSQF">
+<a name="Properties"></a><a name="Topic875"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Properties</div>
 </div>
 
-<a name="Graph"></a><a name="Topic777"></a><div class="CTopic THMProperty LSQF">
- <div class="CTitle">Graph</div>
- <div id="NDPrototype777" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;_workingGraph&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>A graph of nodes that implement the &lt;XPS_typ_IAstarGraph&gt; interface</p></td></tr></table></div>
-</div>
-
-<a name="Doctrine"></a><a name="Topic778"></a><div class="CTopic THMProperty LSQF">
+<a name="Doctrine"></a><a name="Topic876"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Doctrine</div>
- <div id="NDPrototype778" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Doctrine&quot;</span></div></div>
- <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>A <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> of heuristical values to apply to the graph</p></td></tr></table></div>
+ <div id="NDPrototype876" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Doctrine&quot;</span></div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></td><td class="CDLDefinition"><p>A <a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> of heuristical values to apply to the graph</p></td></tr></table></div>
 </div>
 
-<a name="Path"></a><a name="Topic779"></a><div class="CTopic THMProperty LSQF">
+<a name="Path"></a><a name="Topic877"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Path</div>
- <div id="NDPrototype779" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Path&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,883);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of Node keys from start to goal</p></td></tr></table></div>
+ <div id="NDPrototype877" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Path&quot;</span></div></div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1019);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></td><td class="CDLDefinition"><p>of Node keys from start to goal</p></td></tr></table></div>
 </div>
 
-<a name="Status"></a><a name="Topic780"></a><div class="CTopic THMProperty LSQF">
+<a name="Status"></a><a name="Topic878"></a><div class="CTopic THMProperty LSQF">
  <div class="CTitle">Status</div>
- <div id="NDPrototype780" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Status&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,901);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>the current status of the search.</p></td></tr></table><p>Will be one of:</p><ul><li><p>INITIALIZED</p></li><li><p>RUNNING</p></li><li><p>SUCCESS</p></li><li><p>FAILURE</p></li></ul></div>
+ <div id="NDPrototype878" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;Status&quot;</span></div></div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1037);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >String</a></td><td class="CDLDefinition"><p>the current status of the search.</p></td></tr></table><p>Will be one of:</p><ul><li><p>INITIALIZED</p></li><li><p>RUNNING</p></li><li><p>SUCCESS</p></li><li><p>FAILURE</p></li></ul></div>
 </div>
 
-<a name="StartKey"></a><a name="Topic781"></a><div class="CTopic THMProperty LSQF">
- <div class="CTitle">StartKey</div>
- <div id="NDPrototype781" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;_workingStartKey&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">Anything</td><td class="CDLDefinition"><p>the start of the search. Usually an index or position.</p></td></tr></table></div>
-</div>
-
-<a name="EndKey"></a><a name="Topic782"></a><div class="CTopic THMProperty LSQF">
- <div class="CTitle">EndKey</div>
- <div id="NDPrototype782" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">get</span> <span class="SHString">&quot;_workingEndKey&quot;</span></div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">Anything</td><td class="CDLDefinition"><p>the end of the search. Usually an index or position.</p></td></tr></table></div>
-</div>
-
-<a name="Methods"></a><a name="Topic783"></a><div class="CTopic TGroup LSQF">
+<a name="Methods"></a><a name="Topic879"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Methods</div>
 </div>
 
-<a name="_create"></a><a name="Topic784"></a><div class="CTopic THMMethod LSQF">
- <div class="CTitle">#create</div>
- <div id="NDPrototype784" class="NDPrototype"><div class="PSection PPlainSection">_result = createHashmapObject [<span class="SHString">&quot;XPS_typ_AstarSearch&quot;</span>,[_graph,_startKey*,_endKey*]]</div></div>
- <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_graph</td><td class="CDLDefinition"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarGraph" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,617);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarGraph</a> - the graph to perform the search on</p></td></tr></table><div class="CHeading">Optionals</div><table class="CDefinitionList"><tr><td class="CDLEntry">_startKey*</td><td class="CDLDefinition"><p>Anything - (Optional - Default : nil)</p></td></tr><tr><td class="CDLEntry">_endKey*</td><td class="CDLDefinition"><p>Anything - (Optional - Default : nil)</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">_result</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr></table></div>
-</div>
-
-<a name="AdjustEstimatedDistance"></a><a name="Topic785"></a><div class="CTopic THMMethod LSQF">
+<a name="AdjustEstimatedDistance"></a><a name="Topic880"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">AdjustEstimatedDistance</div>
- <div id="NDPrototype785" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;AdjustEstimatedDistance&quot;</span>,[_estDist,_fromNode,_toNode]]</div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Optionals</div><table class="CDefinitionList"><tr><td class="CDLEntry">_estDist</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,896);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a></p></td></tr><tr><td class="CDLEntry">_fromNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr><tr><td class="CDLEntry">_toNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr></table></div>
+ <div id="NDPrototype880" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;AdjustEstimatedDistance&quot;</span>,[_estDist,_fromNode,_toNode]]</div></div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Optionals</div><table class="CDefinitionList"><tr><td class="CDLEntry">_estDist</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1032);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a></p></td></tr><tr><td class="CDLEntry">_fromNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr><tr><td class="CDLEntry">_toNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr></table></div>
 </div>
 
-<a name="AdjustMoveCost"></a><a name="Topic786"></a><div class="CTopic THMMethod LSQF">
+<a name="AdjustMoveCost"></a><a name="Topic881"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">AdjustMoveCost</div>
- <div id="NDPrototype786" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;AdjustMoveCost&quot;</span>,[_moveCost,_fromNode,_toNode]]</div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_moveCost</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,896);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a></p></td></tr><tr><td class="CDLEntry">_fromNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr><tr><td class="CDLEntry">_toNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,893);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr></table></div>
+ <div id="NDPrototype881" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;AdjustMoveCost&quot;</span>,[_moveCost,_fromNode,_toNode]]</div></div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_moveCost</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1032);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a></p></td></tr><tr><td class="CDLEntry">_fromNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr><tr><td class="CDLEntry">_toNode</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1029);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a></p></td></tr></table></div>
 </div>
 
-<a name="FilterNeighbors"></a><a name="Topic787"></a><div class="CTopic THMMethod LSQF">
+<a name="FilterNeighbors"></a><a name="Topic882"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">FilterNeighbors</div>
- <div id="NDPrototype787" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;FilterNeighbors&quot;</span>,[_neighbors]]</div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Optionals</div><table class="CDefinitionList"><tr><td class="CDLEntry">_neighbors</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,883);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></p></td></tr></table></div>
+ <div id="NDPrototype882" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;FilterNeighbors&quot;</span>,[_neighbors]]</div></div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><div class="CHeading">Optionals</div><table class="CDefinitionList"><tr><td class="CDLEntry">_neighbors</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Array" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1019);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Array</a></p></td></tr></table></div>
 </div>
 
-<a name="Init"></a><a name="Topic788"></a><div class="CTopic THMMethod LSQF">
+<a name="Init"></a><a name="Topic883"></a><div class="CTopic THMMethod LSQF">
  <div class="CTitle">Init</div>
- <div id="NDPrototype788" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;Init&quot;</span>]</div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><p>Calls the initialization of the associated graph with the start and end keys.&nbsp; Can be used to reset pathfinding also.</p></div>
+ <div id="NDPrototype883" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;Init&quot;</span>]</div></div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><p>Calls the initialization of the associated graph with the start and end keys.&nbsp; Can be used to reset pathfinding also.</p></div>
 </div>
 
-<a name="ProcessNextNode"></a><a name="Topic789"></a><div class="CTopic THMMethod LSQF last">
+<a name="ProcessNextNode"></a><a name="Topic884"></a><div class="CTopic THMMethod LSQF last">
  <div class="CTitle">ProcessNextNode</div>
- <div id="NDPrototype789" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;ProcessNextNode&quot;</span>]</div></div>
- <div class="CBody"><p><a href="../../../index.html#Database:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,607);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><p>Causes the AstarSearch object to process the next node in frontier queue and place it on to the working graph.</p></div>
+ <div id="NDPrototype884" class="NDPrototype"><div class="PSection PPlainSection">call [<span class="SHString">&quot;ProcessNextNode&quot;</span>]</div></div>
+ <div class="CBody"><p><a href="../../../index.html#SQFClass:core.XPS_ifc_IAstarSearch" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,836);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >XPS_ifc_IAstarSearch</a></p><p>Causes the AstarSearch object to process the next node in frontier queue and place it on to the working graph.</p></div>
 </div>
 
 </body></html>

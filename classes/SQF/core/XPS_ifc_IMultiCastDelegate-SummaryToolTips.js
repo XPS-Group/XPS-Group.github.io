@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFClass:core.XPS_ifc_IMultiCastDelegate",{700:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype700\"><div class=\"CPEntry TInterface Current\"><div class=\"CPName\"><span class=\"Qualifier\">core.</span>&#8203;XPS_ifc_IMultiCastDelegate</div></div></div><div class=\"TTSummary\">Interface</div></div>"});

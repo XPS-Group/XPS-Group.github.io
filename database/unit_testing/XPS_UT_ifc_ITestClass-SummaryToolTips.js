@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("Database:unit_testing.XPS_UT_ifc_ITestClass",{1:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>"});
