@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("File23:interfaces/ICell.sqf",{292:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",294:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>",295:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>"});

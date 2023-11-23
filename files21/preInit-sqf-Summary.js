@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File21:preInit.sqf","preInit.sqf");NDSummary.OnSummaryLoaded("File21:preInit.sqf",[["SQF","SQF"]],[["Module","Module"]],[[609,0,0,"<span class=\"Qualifier\">action_planning.</span>&#8203; XPS_AP","action_planning.XPS_AP"]]);
+﻿NDFramePage.OnPageTitleLoaded("File21:preInit.sqf","preInit.sqf");NDSummary.OnSummaryLoaded("File21:preInit.sqf",[["SQF","SQF"]],[["Variables","Module"]],[[669,0,0,"<span class=\"Qualifier\">action_planning.</span>&#8203; XPS_AP","action_planning.XPS_AP"]]);

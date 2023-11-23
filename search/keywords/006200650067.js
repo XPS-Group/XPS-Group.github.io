@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("beg",["HMProperty"],[["BeginPos",,[["pathfinding.XPS_PF_typ_RoadNode",,,,0,"File24:interfaces/IRoadNode.sqf:pathfinding.XPS_PF_typ_RoadNode.BeginPos","SQFClass:pathfinding.XPS_PF_typ_RoadNode:BeginPos"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("beg",["HMProperty"],[["BeginPos",,[["pathfinding.XPS_PF_typ_RoadNode",,,,0,"File24:typedefs/IRoadNode.sqf:pathfinding.XPS_PF_typ_RoadNode.BeginPos","SQFClass:pathfinding.XPS_PF_typ_RoadNode:BeginPos"]]]]);

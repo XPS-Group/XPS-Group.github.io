@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:core.XPS_Enum","XPS_Enum");NDSummary.OnSummaryLoaded("SQFModule:core.XPS_Enum",[["SQF","SQF"]],[["Module","Module"]],[[925,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_Enum"]]);
+﻿NDFramePage.OnPageTitleLoaded("SQFModule:core.XPS_Enum","XPS_Enum");NDSummary.OnSummaryLoaded("SQFModule:core.XPS_Enum",[["SQF","SQF"]],[["Variables","Module"]],[[1002,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_Enum"]]);

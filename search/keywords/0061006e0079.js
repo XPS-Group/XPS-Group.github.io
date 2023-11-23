@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("any",["HMProtected"],[["Anything",,[["core.XPS_typ_AstarSearch",,,,0,"File20:typedefs/searching/AstarSearch.sqf:core.XPS_typ_AstarSearch.Anything","SQFClass:core.XPS_typ_AstarSearch:Anything"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("any",["Type"],[["Anything",,[[,,,,0,"File:bis_types:Anything"]]]]);
