@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("#fl",["HMFlags"],[["#flags",,[["unit_testing.XPS_UT_typ_TestBuilder",,,,0,"File50:typedefs/TestBuilder.sqf:unit_testing.XPS_UT_typ_TestBuilder._flags","SQFClass:unit_testing.XPS_UT_typ_TestBuilder:_flags"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("#fl",["HMFlags"],[["#flags",,[["unit_testing.XPS_UT_typ_TestClasses",,,,0,"File50:typedefs/TestClasses.sqf:unit_testing.XPS_UT_typ_TestClasses._flags","SQFClass:unit_testing.XPS_UT_typ_TestClasses:_flags"]]]]);

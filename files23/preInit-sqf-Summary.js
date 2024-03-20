@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File23:preInit.sqf","preInit.sqf");NDSummary.OnSummaryLoaded("File23:preInit.sqf",[["SQF","SQF"]],[["Variables","Module"]],[[385,0,0,"<span class=\"Qualifier\">map_grids.</span>&#8203; XPS_MG","map_grids.XPS_MG"]]);
+﻿NDFramePage.OnPageTitleLoaded("File23:preInit.sqf","preInit.sqf");NDSummary.OnSummaryLoaded("File23:preInit.sqf",[["SQF","SQF"]],[["Variables","Module"]],[[402,0,0,"<span class=\"Qualifier\">map_grids.</span>&#8203; XPS_MG","map_grids.XPS_MG"]]);

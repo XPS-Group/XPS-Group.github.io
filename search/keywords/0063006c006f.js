@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("clo",["HMMethod"],[["Close",,[["unit_testing.XPS_UT_typ_TestConsoleViewModel",,,,0,"File50:typedefs/TestConsoleViewModel.sqf:unit_testing.XPS_UT_typ_TestConsoleViewModel.Close","SQFClass:unit_testing.XPS_UT_typ_TestConsoleViewModel:Close"]]]]);
