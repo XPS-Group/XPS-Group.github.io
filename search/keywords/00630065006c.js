@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cel",["HMProperty"],[["Cells",,[["map_grids.XPS_MG_ifc_IGrid",,,,0,"File23:typedefs/IGriid.sqf:map_grids.XPS_MG_ifc_IGrid.Cells","SQFClass:map_grids.XPS_MG_ifc_IGrid:Cells"]]]]);
