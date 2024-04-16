@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("Database:map_grids.XPS_MG_ifc_ICell",{401:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",403:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>",404:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Array</div></div>"});

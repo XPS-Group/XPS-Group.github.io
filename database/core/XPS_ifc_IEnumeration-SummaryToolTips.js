@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("Database:core.XPS_ifc_IEnumeration",{900:"<div class=\"NDToolTip TInterface LSQF\"><div id=\"NDPrototype900\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">XPS_ifc_IEnumeration</div></div><div class=\"TTSummary\">Interface</div></div>",902:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">String</div></div>"});
