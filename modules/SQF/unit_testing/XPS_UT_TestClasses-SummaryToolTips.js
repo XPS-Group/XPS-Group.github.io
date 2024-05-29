@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("SQFModule:unit_testing.XPS_UT_TestClasses",{165:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Singleton</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("SQFModule:unit_testing.XPS_UT_TestClasses",{218:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Singleton</div></div>"});
