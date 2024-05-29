@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File50:displays/Dialog_TestConsole.hpp",{1:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Display</div></div>"});

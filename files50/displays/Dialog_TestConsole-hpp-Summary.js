@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File50:displays/Dialog_TestConsole.hpp","Dialog_TestConsole.hpp");NDSummary.OnSummaryLoaded("File50:displays/Dialog_TestConsole.hpp",[["SQF","SQF"]],[["Variables","Module"]],[[1,0,0,"<span class=\"Qualifier\">unit_testing.</span>&#8203; XPS_UT_TestConsole_display","unit_testing.XPS_UT_TestConsole_display"]]);
