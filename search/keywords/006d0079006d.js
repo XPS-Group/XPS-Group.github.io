@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mym",["HMMethod"],[["MyMethod",,[["unit_testing.XPS_UT_typ_TestService",,,,0,"File50:typedefs/TestService.sqf:unit_testing.XPS_UT_typ_TestService.MyMethod","SQFClass:unit_testing.XPS_UT_typ_TestService:MyMethod"]]]]);

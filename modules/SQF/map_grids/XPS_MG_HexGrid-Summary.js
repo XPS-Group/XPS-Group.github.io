@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:map_grids.XPS_MG_HexGrid","XPS_MG_HexGrid");NDSummary.OnSummaryLoaded("SQFModule:map_grids.XPS_MG_HexGrid",[["SQF","SQF"]],[["Variables","Module"]],[[406,0,0,"<span class=\"Qualifier\">map_grids.</span>&#8203; XPS_MG_HexGrid"]]);
+﻿NDFramePage.OnPageTitleLoaded("SQFModule:map_grids.XPS_MG_HexGrid","XPS_MG_HexGrid");NDSummary.OnSummaryLoaded("SQFModule:map_grids.XPS_MG_HexGrid",[["SQF","SQF"]],[["Variables","Module"]],[[416,0,0,"<span class=\"Qualifier\">map_grids.</span>&#8203; XPS_MG_HexGrid"]]);
