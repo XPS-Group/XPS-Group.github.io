@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("Database:core.XPS_ifc_IAstarNode",{1004:"<div class=\"NDToolTip TInterface LSQF\"><div id=\"NDPrototype1004\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">XPS_ifc_IAstarNode</div></div><div class=\"TTSummary\">Interface</div></div>",1006:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">Anything</div></div>"});

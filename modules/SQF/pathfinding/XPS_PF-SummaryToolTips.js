@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("SQFModule:pathfinding.XPS_PF",{391:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">This returns true once preInit has been completed</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("SQFModule:pathfinding.XPS_PF",{383:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">This returns true once preInit has been completed</div></div>"});

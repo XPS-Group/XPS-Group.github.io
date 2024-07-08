@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFClass:pathfinding.XPS_PF_ifc_ILayerBuilder",{369:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>",371:"<div class=\"NDToolTip THMProperty LSQF\"><div class=\"TTSummary\">String</div></div>",373:"<div class=\"NDToolTip THMMethod LSQF\"><div class=\"TTSummary\">code</div></div>"});

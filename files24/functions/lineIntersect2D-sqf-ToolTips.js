@@ -1,1 +1,0 @@
-﻿NDContentPage.OnToolTipsLoaded({1225:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">[1, 2, 3]</div></div>"});

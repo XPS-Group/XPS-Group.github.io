@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("File20:preInit.sqf",{1119:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">This returns true once preInit has been completed</div></div>",1120:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Static</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("File20:preInit.sqf",{1176:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">This returns true once preInit has been completed</div></div>",1177:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Static</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_hi",["Parameter"],[["_hieghtAdjust",,[["main.XPS_fnc_getRelPos",,,,0,"File20:functions/math/getRelPos.sqf:main.XPS_fnc_getRelPos._hieghtAdjust","SQFPackage:main.XPS_fnc_getRelPos:_hieghtAdjust"]]]]);

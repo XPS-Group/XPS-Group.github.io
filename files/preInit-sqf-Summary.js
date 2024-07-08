@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File:preInit.sqf","preInit.sqf");NDSummary.OnSummaryLoaded("File:preInit.sqf",[["SQF","SQF"]],[["Variables","Module"]],[[1218,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_Main","main.XPS_Main"],[1219,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_DebugMode","main.XPS_DebugMode"]]);
+﻿NDFramePage.OnPageTitleLoaded("File:preInit.sqf","preInit.sqf");NDSummary.OnSummaryLoaded("File:preInit.sqf",[["SQF","SQF"]],[["Variables","Module"]],[[1276,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_Main","main.XPS_Main"]]);

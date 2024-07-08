@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("exe",["HMMethod"],[["Execute",,[["action_planning.XPS_AP_ifc_IAction",,,,0,"File21:typedefs/IAction.sqf:action_planning.XPS_AP_ifc_IAction.Execute","Database:action_planning.XPS_AP_ifc_IAction:Execute"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("exe",["HMMethod"],[["Execute",,[["action_planning.XPS_AP_ifc_IAction",,,,0,"File21:typedefs/goap/IAction.sqf:action_planning.XPS_AP_ifc_IAction.Execute","SQFClass:action_planning.XPS_AP_ifc_IAction:Execute"]]]]);

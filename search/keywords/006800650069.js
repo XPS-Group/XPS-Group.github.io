@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hei",["Example"],[["height",,[["main.XPS_fnc_getRelPos","3D with height change",,,0,"File20:functions/math/getRelPos.sqf:main.XPS_fnc_getRelPos.3D_with_height_change","SQFPackage:main.XPS_fnc_getRelPos:3D_with_height_change"]]]]);

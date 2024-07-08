@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFClass:pathfinding.XPS_PF_ifc_IRoadGraph",{355:"<div class=\"NDToolTip TInterface LSQF\"><div class=\"TTSummary\">Interface</div></div>"});

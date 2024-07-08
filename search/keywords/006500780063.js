@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("exc",["HMProperty"],[["ExceptionType",,[["core.XPS_ifc_IException",,,,0,"File20:typedefs/exceptions/IException.sqf:core.XPS_ifc_IException.ExceptionType","Database:core.XPS_ifc_IException:ExceptionType"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("exc",["HMProperty"],[["ExceptionType",,[["core.XPS_ifc_IException",,,,0,"File20:typedefs/exceptions/IException.sqf:core.XPS_ifc_IException.ExceptionType","SQFClass:core.XPS_ifc_IException:ExceptionType"]]]]);
