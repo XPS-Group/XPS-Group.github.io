@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("_hi",["Parameter"],[["_hieghtAdjust",,[["main.XPS_fnc_getRelPos",,,,0,"File20:functions/math/getRelPos.sqf:main.XPS_fnc_getRelPos._hieghtAdjust","SQFPackage:main.XPS_fnc_getRelPos:_hieghtAdjust"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("_hi",["Parameter"],[["_hieghtAdjust",,[["core.math.XPS_fnc_getRelPos",,,,0,"File20:functions/math/getRelPos.sqf:core.math.XPS_fnc_getRelPos._hieghtAdjust","SQFPackage:core.math.XPS_fnc_getRelPos:_hieghtAdjust"]]]]);

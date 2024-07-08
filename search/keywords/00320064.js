@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("2d",["Example"],[["2D",,[["main.XPS_fnc_getRelPos",,,,0,"File20:functions/math/getRelPos.sqf:main.XPS_fnc_getRelPos.2D","SQFPackage:main.XPS_fnc_getRelPos:2D"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("2d",["Example"],[["2D",,[["core.math.XPS_fnc_getRelPos",,,,0,"File20:functions/math/getRelPos.sqf:core.math.XPS_fnc_getRelPos.2D","SQFPackage:core.math.XPS_fnc_getRelPos:2D"]]]]);

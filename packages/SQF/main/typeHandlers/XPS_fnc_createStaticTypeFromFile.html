@@ -10,40 +10,40 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.startsWith("?Theme=")){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }document.documentElement.classList.add(t + "Theme")}</script>
 
-<a name="Topic1191"></a><div class="CTopic TPackage LSQF first">
+<a name="Topic1197"></a><div class="CTopic TPackage LSQF first">
  <div class="CTitle"><span class="Qualifier">main.&#8203; typeHandlers.</span>&#8203; XPS_fnc_createStaticTypeFromFile</div>
- <div id="NDPrototype1191" class="NDPrototype"><div class="PSection PPlainSection">_result = [_varname, _filepath] call XPS_fnc_createStaticTypeFromFile</div></div>
+ <div id="NDPrototype1197" class="NDPrototype"><div class="PSection PPlainSection">_result = [_varname, _filepath] call XPS_fnc_createStaticTypeFromFile</div></div>
  <div class="CBody"><div class="CHeading">Description</div><p>Reads a file containing a private Type Definition and returns a Read-Only <a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1292);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a>.&nbsp; It then sets the current namespace variable name to the compileFinal'd <a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1292);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> so that only one ever exists and can never be altered.</p><p>Files should return a <a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1292);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> and therefore XPS_fnc_buildTypeDefinition should be called manually in the SQF file before returning the result if needed.</p><div class="CHeading">Authors</div><p>Crashdome</p></div>
 </div>
 
-<a name="Parameters"></a><a name="Topic1192"></a><div class="CTopic TGroup LSQF">
+<a name="Parameters"></a><a name="Topic1198"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Parameters</div>
 </div>
 
-<a name="_varname"></a><a name="Topic1193"></a><div class="CTopic TParameter LSQF">
+<a name="_varname"></a><a name="Topic1199"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_varname</div>
  <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1300);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >string</a></td><td class="CDLDefinition"><p>the variable in which the <a href="../../../../index.html#File:bis_types:HashMapObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1292);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >HashmapObject</a> will be stored</p></td></tr></table></div>
 </div>
 
-<a name="_filepath"></a><a name="Topic1194"></a><div class="CTopic TParameter LSQF">
+<a name="_filepath"></a><a name="Topic1200"></a><div class="CTopic TParameter LSQF">
  <div class="CTitle">_filepath</div>
  <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:String" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1300);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >string</a></td><td class="CDLDefinition"><p>the path to the file</p></td></tr></table></div>
 </div>
 
-<a name="Returns"></a><a name="Topic1195"></a><div class="CTopic TGroup LSQF">
+<a name="Returns"></a><a name="Topic1201"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Returns</div>
 </div>
 
-<a name="_result"></a><a name="Topic1196"></a><div class="CTopic TReturn LSQF">
+<a name="_result"></a><a name="Topic1202"></a><div class="CTopic TReturn LSQF">
  <div class="CTitle">_result</div>
  <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry"><a href="../../../../index.html#File:bis_types:Boolean" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1283);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Boolean</a></td><td class="CDLDefinition"><p><a href="../../../../index.html#File:bis_types:True" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1280);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >True</a> is successful, otherwise false</p></td></tr></table></div>
 </div>
 
-<a name="Examples"></a><a name="Topic1197"></a><div class="CTopic TGroup LSQF">
+<a name="Examples"></a><a name="Topic1203"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Examples</div>
 </div>
 
-<a name="File_and_calling_code_example"></a><a name="Topic1198"></a><div class="CTopic TExample LSQF last">
+<a name="File_and_calling_code_example"></a><a name="Topic1204"></a><div class="CTopic TExample LSQF last">
  <div class="CTitle">File and calling code example</div>
  <div class="CBody"><p>File.sqf</p><pre class="CCode"><span class="SHKeyword">private</span> _def = [ [<br />    [<span class="SHString">&quot;#type&quot;</span>,<span class="SHString">&quot;Tag_typ_MyStaticClass&quot;</span>],<br />    [<span class="SHString">&quot;Method&quot;</span>, { hint <span class="SHString">&quot;Hello World!&quot;</span>}]<br />] ,<span class="SHKeyword">false</span>,<span class="SHKeyword">true</span>,<span class="SHKeyword">true</span>] call XPS_fnc_buildTypeDefinition;<br /><br />createhashmapobject [_def];</pre><p>To create the Static object from above file:</p><pre class="CCode">[<span class="SHString">&quot;MyStatic&quot;</span> , <span class="SHString">&quot;File.sqf&quot;</span>] call XPS_fnc_createStaticTypeFromFile;<br />MyStatic call [<span class="SHString">&quot;Method&quot;</span>];</pre></div>
 </div>
