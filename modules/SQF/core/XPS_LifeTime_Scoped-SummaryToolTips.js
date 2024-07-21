@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SQFModule:core.XPS_LifeTime_Scoped",{1222:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Enumeration</div></div>"});

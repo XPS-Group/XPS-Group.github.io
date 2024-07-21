@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("SQFModule:map_grids.XPS_MG_HexGrid",{411:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Static</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("SQFModule:map_grids.XPS_MG_HexGrid",{421:"<div class=\"NDToolTip TModule LSQF\"><div class=\"TTSummary\">Static</div></div>"});

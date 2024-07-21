@@ -1,1 +1,1 @@
-﻿NDContentPage.OnToolTipsLoaded({1279:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">True / False</div></div>"});
+﻿NDContentPage.OnToolTipsLoaded({1334:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">True / False</div></div>"});
