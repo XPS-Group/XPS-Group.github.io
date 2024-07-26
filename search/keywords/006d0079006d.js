@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mym",["HMMethod"],[["MyMethod",,[["action_planning.XPS_AP_typ_ActionStrategy",,,,0,"File21:typedefs/goap/ActionStrategy.sqf:action_planning.XPS_AP_typ_ActionStrategy.MyMethod","SQFClass:action_planning.XPS_AP_typ_ActionStrategy:MyMethod"]]]]);

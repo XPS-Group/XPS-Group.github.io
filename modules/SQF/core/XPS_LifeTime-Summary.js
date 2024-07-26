@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:core.XPS_LifeTime","XPS_LifeTime");NDSummary.OnSummaryLoaded("SQFModule:core.XPS_LifeTime",[["SQF","SQF"]],[["Variables","Module"]],[[1226,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_LifeTime"]]);
+﻿NDFramePage.OnPageTitleLoaded("SQFModule:core.XPS_LifeTime","XPS_LifeTime");NDSummary.OnSummaryLoaded("SQFModule:core.XPS_LifeTime",[["SQF","SQF"]],[["Variables","Module"]],[[1259,0,0,"<span class=\"Qualifier\">core.</span>&#8203; XPS_LifeTime"]]);

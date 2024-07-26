@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:map_grids.XPS_MG_SquareGrid","XPS_MG_SquareGrid");NDSummary.OnSummaryLoaded("SQFModule:map_grids.XPS_MG_SquareGrid",[["SQF","SQF"]],[["Variables","Module"]],[[422,0,0,"<span class=\"Qualifier\">map_grids.</span>&#8203; XPS_MG_SquareGrid"]]);
+﻿NDFramePage.OnPageTitleLoaded("SQFModule:map_grids.XPS_MG_SquareGrid","XPS_MG_SquareGrid");NDSummary.OnSummaryLoaded("SQFModule:map_grids.XPS_MG_SquareGrid",[["SQF","SQF"]],[["Variables","Module"]],[[429,0,0,"<span class=\"Qualifier\">map_grids.</span>&#8203; XPS_MG_SquareGrid"]]);

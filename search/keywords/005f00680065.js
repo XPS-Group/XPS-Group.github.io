@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("_he",["Parameter"],[["_headers*",,[["main.typeHandlers.XPS_fnc_buildTypeDefinition",,,,0,"File:functions/typeHandlers/buildTypeDefinition.sqf:main.typeHandlers.XPS_fnc_buildTypeDefinition._headers*","SQFPackage:main.typeHandlers.XPS_fnc_buildTypeDefinition:_headers*"]]]]);

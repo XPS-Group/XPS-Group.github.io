@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("SQFModule:main.XPS_DebugMode","XPS_DebugMode");NDSummary.OnSummaryLoaded("SQFModule:main.XPS_DebugMode",[["SQF","SQF"]],[["Variables","Module"]],[[1327,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_DebugMode"]]);
+﻿NDFramePage.OnPageTitleLoaded("SQFModule:main.XPS_DebugMode","XPS_DebugMode");NDSummary.OnSummaryLoaded("SQFModule:main.XPS_DebugMode",[["SQF","SQF"]],[["Variables","Module"]],[[1355,0,0,"<span class=\"Qualifier\">main.</span>&#8203; XPS_DebugMode"]]);
