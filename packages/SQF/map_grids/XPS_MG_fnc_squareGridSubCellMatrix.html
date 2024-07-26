@@ -10,17 +10,17 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.startsWith("?Theme=")){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }document.documentElement.classList.add(t + "Theme")}</script>
 
-<a name="Topic386"></a><div class="CTopic TPackage LSQF first">
+<a name="Topic389"></a><div class="CTopic TPackage LSQF first">
  <div class="CTitle"><span class="Qualifier">map_grids.</span>&#8203; XPS_MG_fnc_squareGridSubCellMatrix</div>
- <div id="NDPrototype386" class="NDPrototype"><div class="PSection PPlainSection">[_radius*] call XPS_MG_fnc_squareGridSubCellMatrix</div></div>
+ <div id="NDPrototype389" class="NDPrototype"><div class="PSection PPlainSection">[_radius*] call XPS_MG_fnc_squareGridSubCellMatrix</div></div>
  <div class="CBody"><div class="CHeading">Description</div><p>Calculates a cell map of relative indexes which can be used to calculate sub cell indexes inside of a larger square. This typically only needs to be done once and then stored somewhere for reference. Number of sub cells is determined by supplied radius (of cells). Index of first element will be lower-left. Moving right, then up where last element will be upper-right.</p><table class="CDefinitionList"><tr><td class="CDLEntry">For example</td><td class="CDLDefinition"><p>a 3x3 grid</p></td></tr></table><pre class="CText">.---------------------.<br />| -1,1  | 0,1  | 1,1  |<br />|---------------------|<br />| -1,0  | 0,0  | 1,0  |<br />|---------------------|<br />| -1,-1 | 0,-1 | 1,-1 |<br />'---------------------'</pre><div class="CHeading">Authors</div><p>Crashdome</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">_radius</td><td class="CDLDefinition"><p><a href="../../../index.html#File:bis_types:Number" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,1389);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Number</a> - (Default: 1) Width or Height is calculated as ((_radius X 2) + 1). A value of one will form a 3 x 3 sub grid. A value of 2 will be 5 x 5, etc...</p></td></tr></table></div>
 </div>
 
-<a name="Returns"></a><a name="Topic387"></a><div class="CTopic TGroup LSQF">
+<a name="Returns"></a><a name="Topic390"></a><div class="CTopic TGroup LSQF">
  <div class="CTitle">Returns</div>
 </div>
 
-<a name="&lt;Array&gt;"></a><a name="Topic388"></a><div class="CTopic TReturn LSQF last">
+<a name="&lt;Array&gt;"></a><a name="Topic391"></a><div class="CTopic TReturn LSQF last">
  <div class="CTitle">&lt;Array&gt;</div>
 </div>
 
