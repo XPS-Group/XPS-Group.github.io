@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ke",["HMProtected"],[["_keyList",,[["core.XPS_typ_EventRouter",,,,0,"File20:typedefs/delegates/EventRouter.sqf:core.XPS_typ_EventRouter._keyList","SQFClass:core.XPS_typ_EventRouter:_keyList"]]]]);

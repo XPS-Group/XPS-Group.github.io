@@ -1,1 +1,1 @@
-﻿NDContentPage.OnToolTipsLoaded({1364:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">Array of arrays in format: [[key1,value1],[key2,value2]...]</div></div>"});
+﻿NDContentPage.OnToolTipsLoaded({1329:"<div class=\"NDToolTip TType LSQF\"><div class=\"TTSummary\">Array of arrays in format: [[key1,value1],[key2,value2]...] (converted to Hashmap for 2.16 onwards)</div></div>"});
